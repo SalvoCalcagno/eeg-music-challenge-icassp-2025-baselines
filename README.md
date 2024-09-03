@@ -38,10 +38,10 @@ The same voting scheme applied in validation was used to generate the final pred
 Our strategy yields the following results that serve as baseline
 
 | Model           | Subject Identification | Emotion Recognition |
-|-----------------|------------------------------|----------------------------------|
-| EEGNet          | 84.61              | 22.08                 |
-| SyncNet         | 16.34              | 23.09                 |
-| EEGChannelNet   | 98.07              | 26.35                 |
+|-----------------|------------------------|---------------------|
+| EEGNet          | 65.91              | -                 |
+| SyncNet         | 18.53              | -                 |
+| EEGChannelNet   | 88.09              | -                 |
 
 
 # How to run
