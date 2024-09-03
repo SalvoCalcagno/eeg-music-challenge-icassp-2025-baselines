@@ -1,0 +1,15 @@
+{
+    "method": "grid", 
+    "name": "Baselines", 
+    "metric": {
+        "goal": "maximize", 
+        "name": "val/max_balanced_accuracy"
+    },
+    "parameters": {
+        "model": {"values": ["eegnet", "syncnet", "eegchannelnet"]},
+        "use_voting": {"value": true},
+        "lr": {"values": [0.01, 0.001, 0.0001, 1e-5, 1e-6]},
+        "batch_size": {"values": [16, 32, 64]},
+        "epochs": {"value": 500}    
+    }
+}
