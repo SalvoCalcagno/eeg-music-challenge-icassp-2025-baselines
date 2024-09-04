@@ -1,0 +1,5720 @@
+{
+    "train": [
+        {
+            "spotify_track_id": "06s6aloy62vytl3MnT6gfl",
+            "song_title": "Times Like These - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "personal",
+            "subject_id": 23,
+            "id": 3784258358,
+            "song_author": [
+                "Foo Fighters"
+            ]
+        },
+        {
+            "spotify_track_id": "0h9fnCSnbUgOEgibnQByFv",
+            "song_title": "Everyday Life",
+            "label": 2,
+            "emotion": "Disappointment",
+            "session_type": "personal",
+            "subject_id": 23,
+            "id": 2395445698,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "1iArQTuOzxvrtniGmkyy92",
+            "song_title": "Burden In My Hand",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 23,
+            "id": 3049220457,
+            "song_author": [
+                "Soundgarden"
+            ]
+        },
+        {
+            "spotify_track_id": "3A9vIxzGBjEfqmDK7H9exS",
+            "song_title": "Pyramid Song",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 23,
+            "id": 2667905835,
+            "song_author": [
+                "Radiohead"
+            ]
+        },
+        {
+            "spotify_track_id": "39kHMfF3dBMZMbOtoit1XF",
+            "song_title": "On The Mend",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 23,
+            "id": 1281311748,
+            "song_author": [
+                "Foo Fighters"
+            ]
+        },
+        {
+            "spotify_track_id": "5sYAvst5lCs3Ws5MhExlSr",
+            "song_title": "Mica Van Gogh",
+            "label": 0,
+            "emotion": "Interest",
+            "session_type": "other",
+            "subject_id": 23,
+            "id": 2608559859,
+            "song_author": [
+                "Caparezza"
+            ]
+        },
+        {
+            "spotify_track_id": "3unsLiH5FXmaDWtT5Imolu",
+            "song_title": "Fallin'",
+            "label": 1,
+            "emotion": "Contentment",
+            "session_type": "other",
+            "subject_id": 23,
+            "id": 2596145110,
+            "song_author": [
+                "Alicia Keys"
+            ]
+        },
+        {
+            "spotify_track_id": "0I3cUqffwmH2mMUHIfpC0l",
+            "song_title": "Memory",
+            "label": 1,
+            "emotion": "Compassion",
+            "session_type": "other",
+            "subject_id": 23,
+            "id": 8309820898,
+            "song_author": [
+                "Barbra Streisand"
+            ]
+        },
+        {
+            "spotify_track_id": "4UnC0RwEgaBXhif5XhtfaP",
+            "song_title": "Stupido Hotel",
+            "label": 3,
+            "emotion": "Contempt",
+            "session_type": "other",
+            "subject_id": 23,
+            "id": 7497445780,
+            "song_author": [
+                "Vasco Rossi"
+            ]
+        },
+        {
+            "spotify_track_id": "76IOzfO0FG2AJMTIt2tUPB",
+            "song_title": "Bella",
+            "label": 1,
+            "emotion": "Contentment",
+            "session_type": "other",
+            "subject_id": 23,
+            "id": 6438333572,
+            "song_author": [
+                "Jovanotti"
+            ]
+        },
+        {
+            "spotify_track_id": "6p5ohfzpFYEqqJMyMypCw0",
+            "song_title": "Denti macchiati",
+            "label": 3,
+            "emotion": "Disgust",
+            "session_type": "personal",
+            "subject_id": 16,
+            "id": 8557039094,
+            "song_author": [
+                "L'Elfo",
+                "Funkyman",
+                "MadMan"
+            ]
+        },
+        {
+            "spotify_track_id": "4e9JgdG9V9L1oE43zyfacr",
+            "song_title": "Il mondo \u00e8 mio",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "personal",
+            "subject_id": 16,
+            "id": 9029879903,
+            "song_author": [
+                "Manuel Meli",
+                "Naomi Rivieccio"
+            ]
+        },
+        {
+            "spotify_track_id": "5LZVK19ieaV8Mk9FsqTL3F",
+            "song_title": "Ridere",
+            "label": 2,
+            "emotion": "Disappointment",
+            "session_type": "personal",
+            "subject_id": 16,
+            "id": 3361324029,
+            "song_author": [
+                "Pinguini Tattici Nucleari"
+            ]
+        },
+        {
+            "spotify_track_id": "75iEncMCKw6aZvUWyZqxO4",
+            "song_title": "Vikings Attack",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 16,
+            "id": 7418585150,
+            "song_author": [
+                "Trevor Morris"
+            ]
+        },
+        {
+            "spotify_track_id": "37ebs6hDGOWK8SDAB2kZG5",
+            "song_title": "Friction",
+            "label": 0,
+            "emotion": "Interest",
+            "session_type": "personal",
+            "subject_id": 16,
+            "id": 6243009174,
+            "song_author": [
+                "Imagine Dragons"
+            ]
+        },
+        {
+            "spotify_track_id": "7ofV2J7Ndzo2s5NBEgfpxl",
+            "song_title": "The Show Must Go On - Remastered 2011",
+            "label": 0,
+            "emotion": "Pride",
+            "session_type": "other",
+            "subject_id": 16,
+            "id": 7391036738,
+            "song_author": [
+                "Queen"
+            ]
+        },
+        {
+            "spotify_track_id": "0AUvWawuP0ibk4SQ3sIZjk",
+            "song_title": "Daisy",
+            "label": 3,
+            "emotion": "Contempt",
+            "session_type": "other",
+            "subject_id": 16,
+            "id": 5280159555,
+            "song_author": [
+                "Ashnikko"
+            ]
+        },
+        {
+            "spotify_track_id": "0pVfvpMSFsabyuydMihDi1",
+            "song_title": "Ho amato tutto",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "other",
+            "subject_id": 16,
+            "id": 1553935701,
+            "song_author": [
+                "Tosca"
+            ]
+        },
+        {
+            "spotify_track_id": "1Bdgn4nmMlADRQ6DPJh7UM",
+            "song_title": "Ascent - Day 1",
+            "label": 1,
+            "emotion": "Compassion",
+            "session_type": "other",
+            "subject_id": 16,
+            "id": 8026221597,
+            "song_author": [
+                "Ludovico Einaudi"
+            ]
+        },
+        {
+            "spotify_track_id": "4nr4gSTFGmTTSbumSY3kfH",
+            "song_title": "The 2nd Law: Isolated System",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "other",
+            "subject_id": 16,
+            "id": 2956923308,
+            "song_author": [
+                "Muse"
+            ]
+        },
+        {
+            "spotify_track_id": "5AEt1JRuzsv7ip4frOvQrE",
+            "song_title": "Pensa - Sanremo 2007",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 15,
+            "id": 3314920082,
+            "song_author": [
+                "Fabrizio Moro"
+            ]
+        },
+        {
+            "spotify_track_id": "76GSo8ITf6PakYmNMJAwc2",
+            "song_title": "Io in questo mondo",
+            "label": 0,
+            "emotion": "Pride",
+            "session_type": "personal",
+            "subject_id": 15,
+            "id": 2951988720,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "5YdEQiynLpBRBk8CLEd9sG",
+            "song_title": "Abbi cura di me",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 15,
+            "id": 6021862951,
+            "song_author": [
+                "Simone Cristicchi"
+            ]
+        },
+        {
+            "spotify_track_id": "75JFxkI2RXiU7L9VXzMkle",
+            "song_title": "The Scientist",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 15,
+            "id": 1436191677,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "5XAGVMePJNaXHcdRN578Xi",
+            "song_title": "La canzone del sole",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "personal",
+            "subject_id": 15,
+            "id": 2302906161,
+            "song_author": [
+                "Lucio Battisti"
+            ]
+        },
+        {
+            "spotify_track_id": "1fdCjH8Y8n9j7lFr7tLbfm",
+            "song_title": "Per dimenticare",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "other",
+            "subject_id": 15,
+            "id": 8084230089,
+            "song_author": [
+                "Zero Assoluto"
+            ]
+        },
+        {
+            "spotify_track_id": "0jqK7sGTLsHPkQrrcrGuKD",
+            "song_title": "Still Waiting",
+            "label": 0,
+            "emotion": "Pride",
+            "session_type": "other",
+            "subject_id": 15,
+            "id": 2059040442,
+            "song_author": [
+                "Sum 41"
+            ]
+        },
+        {
+            "spotify_track_id": "30k5yWHaZRUAeFZXspfmUV",
+            "song_title": "I Colori Del Vento - di \"Pocahontas\"/Colonna Sonora Originale",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 15,
+            "id": 5161760361,
+            "song_author": [
+                "Manuela Villa"
+            ]
+        },
+        {
+            "spotify_track_id": "6FJbvdUSkr1tyXdVZ2UlBR",
+            "song_title": "Bound To You - Burlesque Original Motion Picture Soundtrack",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "other",
+            "subject_id": 15,
+            "id": 2063266754,
+            "song_author": [
+                "Christina Aguilera"
+            ]
+        },
+        {
+            "spotify_track_id": "4JehYebiI9JE8sR8MisGVb",
+            "song_title": "Halo",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 13,
+            "id": 3130546511,
+            "song_author": [
+                "Beyonc\u00e9"
+            ]
+        },
+        {
+            "spotify_track_id": "4qLEwHLABVI2Pc43xPJRUA",
+            "song_title": "Para el sol",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "personal",
+            "subject_id": 13,
+            "id": 5417594918,
+            "song_author": [
+                "Enrico Nigiotti"
+            ]
+        },
+        {
+            "spotify_track_id": "5BBOSI7uPvAdxw5Rp3jKHQ",
+            "song_title": "Fatto di te",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 13,
+            "id": 4506496120,
+            "song_author": [
+                "Thegiornalisti"
+            ]
+        },
+        {
+            "spotify_track_id": "0a6pjT7GkbGOMJO4SlWQG0",
+            "song_title": "Carillon",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 13,
+            "id": 3508699688,
+            "song_author": [
+                "Fiorella Mannoia"
+            ]
+        },
+        {
+            "spotify_track_id": "3Vu3gNAguJsEVQm9gXoYMj",
+            "song_title": "Dio Come Ti Amo",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 13,
+            "id": 4544608223,
+            "song_author": [
+                "Paola Turci"
+            ]
+        },
+        {
+            "spotify_track_id": "2dXsILW8gzkosqleHAvl0v",
+            "song_title": "For Whom The Bell Tolls - Remastered",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "other",
+            "subject_id": 13,
+            "id": 1135903657,
+            "song_author": [
+                "Metallica"
+            ]
+        },
+        {
+            "spotify_track_id": "7D64ejn2d3g6QaahkYdKXH",
+            "song_title": "Tranquilla!",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "other",
+            "subject_id": 13,
+            "id": 8861397241,
+            "song_author": [
+                "Fabrizio Vidale"
+            ]
+        },
+        {
+            "spotify_track_id": "0XRxwt5AoIFG0cIfRnb2f2",
+            "song_title": "Per uno come me",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "other",
+            "subject_id": 13,
+            "id": 9865031713,
+            "song_author": [
+                "Negramaro"
+            ]
+        },
+        {
+            "spotify_track_id": "76IOzfO0FG2AJMTIt2tUPB",
+            "song_title": "Bella",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 13,
+            "id": 2400639464,
+            "song_author": [
+                "Jovanotti"
+            ]
+        },
+        {
+            "spotify_track_id": "2N9XhnyDTq97R2UIyAKOKt",
+            "song_title": "Tristezza",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 13,
+            "id": 4902264143,
+            "song_author": [
+                "Elio e le Storie Tese"
+            ]
+        },
+        {
+            "spotify_track_id": "6X5aQbswVINUVmmugsMU96",
+            "song_title": "Antartide",
+            "label": 1,
+            "emotion": "Compassion",
+            "session_type": "personal",
+            "subject_id": 22,
+            "id": 5713478846,
+            "song_author": [
+                "Pinguini Tattici Nucleari"
+            ]
+        },
+        {
+            "spotify_track_id": "5BBOSI7uPvAdxw5Rp3jKHQ",
+            "song_title": "Fatto di te",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "personal",
+            "subject_id": 22,
+            "id": 9195527806,
+            "song_author": [
+                "Thegiornalisti"
+            ]
+        },
+        {
+            "spotify_track_id": "3x3xrjmOy3hu9ky8OFjg7g",
+            "song_title": "Tutta la vita",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 22,
+            "id": 6705473117,
+            "song_author": [
+                "Gazzelle"
+            ]
+        },
+        {
+            "spotify_track_id": "17ahSrFGTLNAEAquP1P88n",
+            "song_title": "Goodbye Kiss",
+            "label": 2,
+            "emotion": "Disappointment",
+            "session_type": "personal",
+            "subject_id": 22,
+            "id": 9187213890,
+            "song_author": [
+                "Kasabian"
+            ]
+        },
+        {
+            "spotify_track_id": "0ct6r3EGTcMLPtrXHDvVjc",
+            "song_title": "The Nights",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "personal",
+            "subject_id": 22,
+            "id": 7395858685,
+            "song_author": [
+                "Avicii"
+            ]
+        },
+        {
+            "spotify_track_id": "4wz9be3iTHln8swogVIAwR",
+            "song_title": "#THOTMILANODM",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "other",
+            "subject_id": 22,
+            "id": 2848873660,
+            "song_author": [
+                "Radical",
+                "Thelonious B.",
+                "Rosa Chemical"
+            ]
+        },
+        {
+            "spotify_track_id": "3sQfSEDzsRefqiVuCDflhe",
+            "song_title": "Deck The Halls",
+            "label": 1,
+            "emotion": "Contentment",
+            "session_type": "other",
+            "subject_id": 22,
+            "id": 6194767697,
+            "song_author": [
+                "Pentatonix"
+            ]
+        },
+        {
+            "spotify_track_id": "0YhC914Z6rLoTJJeZSBMq8",
+            "song_title": "La Leggenda Di Cristalda E Pizzomunno",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 22,
+            "id": 5898249712,
+            "song_author": [
+                "Max Gazz\u00e9"
+            ]
+        },
+        {
+            "spotify_track_id": "2lCT4RVgR0bIYR0JW7Mcqx",
+            "song_title": "# fuori c'\u00e8 il sole",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "other",
+            "subject_id": 22,
+            "id": 3380252349,
+            "song_author": [
+                "Lorenzo Fragola"
+            ]
+        },
+        {
+            "spotify_track_id": "7Muqwx50J3f9n8wIvszq8l",
+            "song_title": "Our Heritage",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 19,
+            "id": 9194938561,
+            "song_author": [
+                "Armand Amar",
+                "G\u00fclay Hacer Toruk",
+                "Herv\u00e9 Teboul",
+                "Julien Carton"
+            ]
+        },
+        {
+            "spotify_track_id": "2OuNgtXKeCSORKqdl0MxKk",
+            "song_title": "Chasing Pavements",
+            "label": 2,
+            "emotion": "Disappointment",
+            "session_type": "personal",
+            "subject_id": 19,
+            "id": 3806403451,
+            "song_author": [
+                "Adele"
+            ]
+        },
+        {
+            "spotify_track_id": "11IXRdEjiH0KL8nh4G1j7d",
+            "song_title": "Now We Are Free",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 19,
+            "id": 5814295082,
+            "song_author": [
+                "Lisa Gerrard",
+                "Klaus Badelt",
+                "Hans Zimmer",
+                "Gavin Greenaway",
+                "The Lyndhurst Orchestra"
+            ]
+        },
+        {
+            "spotify_track_id": "4esOae7i4rqTbAu9o5Pxco",
+            "song_title": "Girl on Fire",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 19,
+            "id": 4945916145,
+            "song_author": [
+                "Alicia Keys"
+            ]
+        },
+        {
+            "spotify_track_id": "1jloxj2l32MZBJapqOGN9X",
+            "song_title": "Yo te cielo (canci\u00f3n para Frida)",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "personal",
+            "subject_id": 19,
+            "id": 9278136281,
+            "song_author": [
+                "Remo Anzovino",
+                "Yasemin Sannino",
+                "Flavio Boltro"
+            ]
+        },
+        {
+            "spotify_track_id": "0h9fnCSnbUgOEgibnQByFv",
+            "song_title": "Everyday Life",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 19,
+            "id": 8504350846,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "45aBsnKRWUzhwbcqOJLwfe",
+            "song_title": "This Is Me",
+            "label": 0,
+            "emotion": "Pride",
+            "session_type": "other",
+            "subject_id": 19,
+            "id": 1661499903,
+            "song_author": [
+                "Keala Settle",
+                "The Greatest Showman Ensemble"
+            ]
+        },
+        {
+            "spotify_track_id": "7mfvOqsvzZaUl7sfbcNk4E",
+            "song_title": "Ameno",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "other",
+            "subject_id": 19,
+            "id": 4455223918,
+            "song_author": [
+                "ERA"
+            ]
+        },
+        {
+            "spotify_track_id": "4mfQ1dT9zhaDhVpb4GbTOy",
+            "song_title": "Requiem in D Minor, K. 626: 2. Kyrie - Live",
+            "label": 2,
+            "emotion": "Guilt",
+            "session_type": "other",
+            "subject_id": 19,
+            "id": 7272595194,
+            "song_author": [
+                "Wolfgang Amadeus Mozart",
+                "Berliner Philharmoniker",
+                "Claudio Abbado",
+                "Swedish Radio Choir",
+                "Kay Johannsen"
+            ]
+        },
+        {
+            "spotify_track_id": "6t4XT3FQGdB7EjqvfAahNx",
+            "song_title": "Chiaro Di Luna",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "other",
+            "subject_id": 19,
+            "id": 5997913581,
+            "song_author": [
+                "Jovanotti"
+            ]
+        },
+        {
+            "spotify_track_id": "2Q22sa3Y4lKXHHBBAxEhYY",
+            "song_title": "Stray Heart",
+            "label": 2,
+            "emotion": "Guilt",
+            "session_type": "personal",
+            "subject_id": 6,
+            "id": 4434637720,
+            "song_author": [
+                "Green Day"
+            ]
+        },
+        {
+            "spotify_track_id": "0WoY5ol6DYtT9WxvDU92et",
+            "song_title": "Una Come Te",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "personal",
+            "subject_id": 6,
+            "id": 1143753231,
+            "song_author": [
+                "Cesare Cremonini"
+            ]
+        },
+        {
+            "spotify_track_id": "5ViLCypdkRUItaiL84czro",
+            "song_title": "Niente che ti assomigli - Live Forum 2018",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 6,
+            "id": 7841323991,
+            "song_author": [
+                "Ermal Meta"
+            ]
+        },
+        {
+            "spotify_track_id": "6PCUP3dWmTjcTtXY02oFdT",
+            "song_title": "Castle on the Hill",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 6,
+            "id": 1518675867,
+            "song_author": [
+                "Ed Sheeran"
+            ]
+        },
+        {
+            "spotify_track_id": "5QNFdjlkHHdOyhutGef68K",
+            "song_title": "Al Tuo Matrimonio",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 6,
+            "id": 7653858464,
+            "song_author": [
+                "Cesare Cremonini"
+            ]
+        },
+        {
+            "spotify_track_id": "4Re9ss7a60eXUDiSyUMQIn",
+            "song_title": "Orobroy",
+            "label": 0,
+            "emotion": "Interest",
+            "session_type": "other",
+            "subject_id": 6,
+            "id": 8761538642,
+            "song_author": [
+                "Dorantes"
+            ]
+        },
+        {
+            "spotify_track_id": "1m4ZjbibTvvmYIJyXAIuxv",
+            "song_title": "Fawkes the Phoenix",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 6,
+            "id": 5390770597,
+            "song_author": [
+                "John Williams"
+            ]
+        },
+        {
+            "spotify_track_id": "6WEBwvsmpaoGxka0tSh5a7",
+            "song_title": "Won't Go Home Without You",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 6,
+            "id": 2978076428,
+            "song_author": [
+                "Maroon 5"
+            ]
+        },
+        {
+            "spotify_track_id": "4TALwpbPAx2grcU29poEPy",
+            "song_title": "Quando finisce un amore",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 3,
+            "id": 5485211163,
+            "song_author": [
+                "Riccardo Cocciante"
+            ]
+        },
+        {
+            "spotify_track_id": "280vpFLeP86WEQGtsycO8O",
+            "song_title": "Controllo",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 3,
+            "id": 5720039635,
+            "song_author": [
+                "Thegiornalisti"
+            ]
+        },
+        {
+            "spotify_track_id": "6JXlccLNpK7F2XFwHuMy23",
+            "song_title": "Per due che come noi",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "personal",
+            "subject_id": 3,
+            "id": 8408869665,
+            "song_author": [
+                "Brunori Sas"
+            ]
+        },
+        {
+            "spotify_track_id": "1sJ53hBD3uN83UbNaEA4jU",
+            "song_title": "Il tuo maglione mio",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "personal",
+            "subject_id": 3,
+            "id": 6727568737,
+            "song_author": [
+                "Thegiornalisti"
+            ]
+        },
+        {
+            "spotify_track_id": "3E1FgPTXX203rgBTD5nlKF",
+            "song_title": "Il bacio di Klimt",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "personal",
+            "subject_id": 3,
+            "id": 5632497865,
+            "song_author": [
+                "Emanuele Aloia"
+            ]
+        },
+        {
+            "spotify_track_id": "1qU8pLmJNC0V2aSOStjWcX",
+            "song_title": "A Thousand Years",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "other",
+            "subject_id": 3,
+            "id": 8260045543,
+            "song_author": [
+                "Christina Perri"
+            ]
+        },
+        {
+            "spotify_track_id": "0jWgAnTrNZmOGmqgvHhZEm",
+            "song_title": "What's Up?",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 3,
+            "id": 1188018273,
+            "song_author": [
+                "4 Non Blondes"
+            ]
+        },
+        {
+            "spotify_track_id": "55xly70WJY1cx5qsoogaqs",
+            "song_title": "Main Title/John Williams/Jaws - From The \"Jaws\" Soundtrack",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "other",
+            "subject_id": 3,
+            "id": 3114008345,
+            "song_author": [
+                "John Williams"
+            ]
+        },
+        {
+            "spotify_track_id": "1tx2oinycuW0tfPrwUJuTU",
+            "song_title": "Che vita meravigliosa",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "other",
+            "subject_id": 3,
+            "id": 5688213647,
+            "song_author": [
+                "Diodato"
+            ]
+        },
+        {
+            "spotify_track_id": "1Ej0xptDBpBxUM1dIPcHlm",
+            "song_title": "My Heart Is Broken",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 2,
+            "id": 4497446683,
+            "song_author": [
+                "Evanescence"
+            ]
+        },
+        {
+            "spotify_track_id": "3oDTKDo6QPUIJCD7cZLBHb",
+            "song_title": "Gate 21",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "personal",
+            "subject_id": 2,
+            "id": 7156480045,
+            "song_author": [
+                "Serj Tankian"
+            ]
+        },
+        {
+            "spotify_track_id": "18lR4BzEs7e3qzc0KVkTpU",
+            "song_title": "What I've Done",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "personal",
+            "subject_id": 2,
+            "id": 3395991636,
+            "song_author": [
+                "Linkin Park"
+            ]
+        },
+        {
+            "spotify_track_id": "36YNa8joLwu9yor2TkZbIY",
+            "song_title": "Objection (Tango)",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 2,
+            "id": 7743275347,
+            "song_author": [
+                "Shakira"
+            ]
+        },
+        {
+            "spotify_track_id": "4e9eGQYsOiBcftrWXwsVco",
+            "song_title": "Aerials",
+            "label": 0,
+            "emotion": "Interest",
+            "session_type": "personal",
+            "subject_id": 2,
+            "id": 1655099904,
+            "song_author": [
+                "System Of A Down"
+            ]
+        },
+        {
+            "spotify_track_id": "6p5ohfzpFYEqqJMyMypCw0",
+            "song_title": "Denti macchiati",
+            "label": 3,
+            "emotion": "Contempt",
+            "session_type": "other",
+            "subject_id": 2,
+            "id": 2671256194,
+            "song_author": [
+                "L'Elfo",
+                "Funkyman",
+                "MadMan"
+            ]
+        },
+        {
+            "spotify_track_id": "5e0O7MjhNHq9G67qDFM8nR",
+            "song_title": "Monsters, Inc.",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 2,
+            "id": 8974662405,
+            "song_author": [
+                "Randy Newman"
+            ]
+        },
+        {
+            "spotify_track_id": "4tKiqgP4hiFNSCDeoaNctg",
+            "song_title": "La sera dei miracoli",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 2,
+            "id": 6783991619,
+            "song_author": [
+                "Lucio Dalla"
+            ]
+        },
+        {
+            "spotify_track_id": "6P7CGwIMruLWna0QvN14DB",
+            "song_title": "Fotoricordo",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "personal",
+            "subject_id": 17,
+            "id": 7674400972,
+            "song_author": [
+                "Gemelli Diversi"
+            ]
+        },
+        {
+            "spotify_track_id": "6MERAQtSWXt3EFnI6UjXGy",
+            "song_title": "I Nostri Anni",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 17,
+            "id": 2442807919,
+            "song_author": [
+                "Tommaso Paradiso"
+            ]
+        },
+        {
+            "spotify_track_id": "0mHZ5IoR9iNM7HoZafOwcl",
+            "song_title": "Ed ero contentissimo",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 17,
+            "id": 6370584383,
+            "song_author": [
+                "Tiziano Ferro"
+            ]
+        },
+        {
+            "spotify_track_id": "7swocJUCUWTCiRUAU9oerC",
+            "song_title": "Halloween Theme - Main Title",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 17,
+            "id": 1315779175,
+            "song_author": [
+                "John Carpenter"
+            ]
+        },
+        {
+            "spotify_track_id": "4VUZmIKYPnZZfSg0bMR4pz",
+            "song_title": "Per me",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "personal",
+            "subject_id": 17,
+            "id": 1585219913,
+            "song_author": [
+                "Fabrizio Moro"
+            ]
+        },
+        {
+            "spotify_track_id": "5gTuH5Jl8PVUitsFzFslWu",
+            "song_title": "Certe notti",
+            "label": 1,
+            "emotion": "Contentment",
+            "session_type": "other",
+            "subject_id": 17,
+            "id": 7289346890,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "32Bsla4JMIU9tAeCui4RKp",
+            "song_title": "Ulisse",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "other",
+            "subject_id": 17,
+            "id": 5568667703,
+            "song_author": [
+                "lowlow"
+            ]
+        },
+        {
+            "spotify_track_id": "36qZIsik56PiT7HnM58e8g",
+            "song_title": "Eppure sentire (Un senso di te)",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 17,
+            "id": 4088218377,
+            "song_author": [
+                "Elisa"
+            ]
+        },
+        {
+            "spotify_track_id": "22yxHt6UqZpH7tP6W4PooI",
+            "song_title": "For The Love Of A Princess",
+            "label": 1,
+            "emotion": "Compassion",
+            "session_type": "personal",
+            "subject_id": 18,
+            "id": 8995791781,
+            "song_author": [
+                "James Horner",
+                "London Symphony Orchestra"
+            ]
+        },
+        {
+            "spotify_track_id": "4Sg5kugcA7G2dyFpok5Jyt",
+            "song_title": "Mariage d'Amour",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 18,
+            "id": 7307194539,
+            "song_author": [
+                "Jacob's Piano"
+            ]
+        },
+        {
+            "spotify_track_id": "4Re9ss7a60eXUDiSyUMQIn",
+            "song_title": "Orobroy",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 18,
+            "id": 5438162578,
+            "song_author": [
+                "Dorantes"
+            ]
+        },
+        {
+            "spotify_track_id": "6tgEc2O1uFHcZDKPoo6PC8",
+            "song_title": "ALREADY",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 18,
+            "id": 5430407454,
+            "song_author": [
+                "Beyonc\u00e9",
+                "Shatta Wale",
+                "Major Lazer"
+            ]
+        },
+        {
+            "spotify_track_id": "6kf7ZCJjEbjZXikivKOsvJ",
+            "song_title": "Claire de lune",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "personal",
+            "subject_id": 18,
+            "id": 4501146986,
+            "song_author": [
+                "Claude Debussy",
+                "Alexis Weissenberg"
+            ]
+        },
+        {
+            "spotify_track_id": "60a0Rd6pjrkxjPbaKzXjfq",
+            "song_title": "In the End",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "other",
+            "subject_id": 18,
+            "id": 3152082844,
+            "song_author": [
+                "Linkin Park"
+            ]
+        },
+        {
+            "spotify_track_id": "2nLtzopw4rPReszdYBJU6h",
+            "song_title": "Numb",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "other",
+            "subject_id": 18,
+            "id": 3994531682,
+            "song_author": [
+                "Linkin Park"
+            ]
+        },
+        {
+            "spotify_track_id": "75iEncMCKw6aZvUWyZqxO4",
+            "song_title": "Vikings Attack",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "other",
+            "subject_id": 18,
+            "id": 4361083316,
+            "song_author": [
+                "Trevor Morris"
+            ]
+        },
+        {
+            "spotify_track_id": "1fdCjH8Y8n9j7lFr7tLbfm",
+            "song_title": "Per dimenticare",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 18,
+            "id": 4743062887,
+            "song_author": [
+                "Zero Assoluto"
+            ]
+        },
+        {
+            "spotify_track_id": "31QuXhy09js64az8vRvAKc",
+            "song_title": "Moonlight",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 18,
+            "id": 3679424236,
+            "song_author": [
+                "Message To Bears"
+            ]
+        },
+        {
+            "spotify_track_id": "2nMeu6UenVvwUktBCpLMK9",
+            "song_title": "Young And Beautiful",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "personal",
+            "subject_id": 1,
+            "id": 2965155855,
+            "song_author": [
+                "Lana Del Rey"
+            ]
+        },
+        {
+            "spotify_track_id": "7BYmOx8ouIHV7iVkgTI6Fp",
+            "song_title": "Pronto a correre",
+            "label": 2,
+            "emotion": "Guilt",
+            "session_type": "personal",
+            "subject_id": 1,
+            "id": 5768080515,
+            "song_author": [
+                "Marco Mengoni"
+            ]
+        },
+        {
+            "spotify_track_id": "4xGuK7FsXuZwHCCuNnPzbD",
+            "song_title": "L'Amour Toujours",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "personal",
+            "subject_id": 1,
+            "id": 4278441823,
+            "song_author": [
+                "Gigi D'Agostino"
+            ]
+        },
+        {
+            "spotify_track_id": "7DFNE7NO0raLIUbgzY2rzm",
+            "song_title": "Let Her Go",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 1,
+            "id": 8446090510,
+            "song_author": [
+                "Passenger"
+            ]
+        },
+        {
+            "spotify_track_id": "6d3sJyECf0XccpnosXyxT7",
+            "song_title": "Non mi avete fatto niente",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 1,
+            "id": 3727709568,
+            "song_author": [
+                "Ermal Meta",
+                "Fabrizio Moro"
+            ]
+        },
+        {
+            "spotify_track_id": "6A3axRTw93LhvnlQLFmi7S",
+            "song_title": "Dicono Di Me",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 1,
+            "id": 2505977396,
+            "song_author": [
+                "Cesare Cremonini"
+            ]
+        },
+        {
+            "spotify_track_id": "2v1eE7NJy08YJ9jsMhI47v",
+            "song_title": "Good Enough",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "other",
+            "subject_id": 1,
+            "id": 8760537468,
+            "song_author": [
+                "Little Mix"
+            ]
+        },
+        {
+            "spotify_track_id": "6pAH9ilo8UkRIraNc8YVkR",
+            "song_title": "Cold Cold Man",
+            "label": 1,
+            "emotion": "Contentment",
+            "session_type": "other",
+            "subject_id": 1,
+            "id": 3359788067,
+            "song_author": [
+                "Saint Motel"
+            ]
+        },
+        {
+            "spotify_track_id": "6en0KcrH7lOI6Tpxnst3Lr",
+            "song_title": "La Leggenda Di Cristalda E Pizzomunno",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "other",
+            "subject_id": 1,
+            "id": 7690688371,
+            "song_author": [
+                "Max Gazz\u00e9"
+            ]
+        },
+        {
+            "spotify_track_id": "0XAO6HaZDHa2HxbnWWKWCZ",
+            "song_title": "La storia infinita",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "personal",
+            "subject_id": 21,
+            "id": 2642234932,
+            "song_author": [
+                "Pinguini Tattici Nucleari"
+            ]
+        },
+        {
+            "spotify_track_id": "7FlHNJT4TC120CDvFOHzei",
+            "song_title": "Rewrite The Stars",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 21,
+            "id": 5984395806,
+            "song_author": [
+                "James Arthur",
+                "Anne-Marie"
+            ]
+        },
+        {
+            "spotify_track_id": "1nZzRJbFvCEct3uzu04ZoL",
+            "song_title": "Part Of Me",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 21,
+            "id": 3244438535,
+            "song_author": [
+                "Katy Perry"
+            ]
+        },
+        {
+            "spotify_track_id": "37mk7t1x4VmKmmqgRU8E2w",
+            "song_title": "Sunrise",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "personal",
+            "subject_id": 21,
+            "id": 2686839582,
+            "song_author": [
+                "Simply Red"
+            ]
+        },
+        {
+            "spotify_track_id": "5WK0BthtcfaCFRPqjaY1sx",
+            "song_title": "Nell'ignoto",
+            "label": 0,
+            "emotion": "Interest",
+            "session_type": "personal",
+            "subject_id": 21,
+            "id": 5548440787,
+            "song_author": [
+                "Serena Autieri",
+                "AURORA"
+            ]
+        },
+        {
+            "spotify_track_id": "5qu9xgYAZ2JbDXqssUMP7N",
+            "song_title": "The Crisis",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 21,
+            "id": 3603031333,
+            "song_author": [
+                "Ennio Morricone"
+            ]
+        },
+        {
+            "spotify_track_id": "2zYzyRzz6pRmhPzyfMEC8s",
+            "song_title": "Highway to Hell",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 21,
+            "id": 7194194602,
+            "song_author": [
+                "AC/DC"
+            ]
+        },
+        {
+            "spotify_track_id": "4VUZmIKYPnZZfSg0bMR4pz",
+            "song_title": "Per me",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "other",
+            "subject_id": 21,
+            "id": 3530449582,
+            "song_author": [
+                "Fabrizio Moro"
+            ]
+        },
+        {
+            "spotify_track_id": "3mpB5TxVf155B1S6KfPtlv",
+            "song_title": "Diventerai una star",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 21,
+            "id": 5877317675,
+            "song_author": [
+                "Finley"
+            ]
+        },
+        {
+            "spotify_track_id": "7D64ejn2d3g6QaahkYdKXH",
+            "song_title": "Tranquilla!",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "other",
+            "subject_id": 21,
+            "id": 8588964370,
+            "song_author": [
+                "Fabrizio Vidale"
+            ]
+        },
+        {
+            "spotify_track_id": "3weNRklVDqb4Rr5MhKBR3D",
+            "song_title": "Nuvole Bianche",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 20,
+            "id": 6572251116,
+            "song_author": [
+                "Ludovico Einaudi"
+            ]
+        },
+        {
+            "spotify_track_id": "5sYAvst5lCs3Ws5MhExlSr",
+            "song_title": "Mica Van Gogh",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "personal",
+            "subject_id": 20,
+            "id": 8633315042,
+            "song_author": [
+                "Caparezza"
+            ]
+        },
+        {
+            "spotify_track_id": "6qlM3aT6CCXrkjmtz4v2fM",
+            "song_title": "Di sana pianta",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 20,
+            "id": 2926730303,
+            "song_author": [
+                "J-AX"
+            ]
+        },
+        {
+            "spotify_track_id": "5kqIPrATaCc2LqxVWzQGbk",
+            "song_title": "7 Years",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 20,
+            "id": 4616757922,
+            "song_author": [
+                "Lukas Graham"
+            ]
+        },
+        {
+            "spotify_track_id": "2nLtzopw4rPReszdYBJU6h",
+            "song_title": "Numb",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 20,
+            "id": 2052607919,
+            "song_author": [
+                "Linkin Park"
+            ]
+        },
+        {
+            "spotify_track_id": "6xFK2P3LmaionULnNOOlqq",
+            "song_title": "Dead Silence Theme (Intro) [From \"Dead Silence\"]",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "other",
+            "subject_id": 20,
+            "id": 3471264357,
+            "song_author": [
+                "Luca Riviero"
+            ]
+        },
+        {
+            "spotify_track_id": "4UzVcXufOhGUwF56HT7b8M",
+            "song_title": "My Immortal",
+            "label": 1,
+            "emotion": "Compassion",
+            "session_type": "other",
+            "subject_id": 20,
+            "id": 2102668116,
+            "song_author": [
+                "Evanescence"
+            ]
+        },
+        {
+            "spotify_track_id": "4CQnIoccCBtsiBeb1jBFiZ",
+            "song_title": "Danza del Osos",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "other",
+            "subject_id": 20,
+            "id": 2016546257,
+            "song_author": [
+                "Danzante Banda Celta"
+            ]
+        },
+        {
+            "spotify_track_id": "7uQuSHXICONzPv91hqMBmf",
+            "song_title": "Cara",
+            "label": 0,
+            "emotion": "Interest",
+            "session_type": "other",
+            "subject_id": 20,
+            "id": 3088725053,
+            "song_author": [
+                "Lucio Dalla"
+            ]
+        },
+        {
+            "spotify_track_id": "3YQsdw4FNt17lxAEXXURqV",
+            "song_title": "Viva La Libert\u00e0",
+            "label": 1,
+            "emotion": "Contentment",
+            "session_type": "other",
+            "subject_id": 20,
+            "id": 4353988101,
+            "song_author": [
+                "Jovanotti"
+            ]
+        },
+        {
+            "spotify_track_id": "0TRzbNlR34FoO3HjHvb8FX",
+            "song_title": "Trilogy - Remastered",
+            "label": 0,
+            "emotion": "Interest",
+            "session_type": "personal",
+            "subject_id": 8,
+            "id": 7962692464,
+            "song_author": [
+                "Emerson, Lake & Palmer"
+            ]
+        },
+        {
+            "spotify_track_id": "4UVwbnxKEzPGOuAtSEt2ic",
+            "song_title": "Requiem: II. Dies Irae",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 8,
+            "id": 3495474224,
+            "song_author": [
+                "Giuseppe Verdi",
+                "Sir Colin Davis",
+                "London Symphony Chorus",
+                "London Symphony Orchestra"
+            ]
+        },
+        {
+            "spotify_track_id": "5Fw4nhdXk4THgyfetrwpDf",
+            "song_title": "Adagio in G Minor (Attrib. Albinoni) [Arr. for Chamber Orchestra]",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 8,
+            "id": 5661316078,
+            "song_author": [
+                "Remo Giazotto",
+                "Jean-Claude Malgoire",
+                "La Grande \u00c9curie et la Chambre du Roy"
+            ]
+        },
+        {
+            "spotify_track_id": "2Ig3npEMsgVAN2NtRuSyh5",
+            "song_title": "Argentovivo (feat. Rancore & Manuel Agnelli)",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 8,
+            "id": 6808721773,
+            "song_author": [
+                "Daniele Silvestri",
+                "Rancore",
+                "Manuel Agnelli"
+            ]
+        },
+        {
+            "spotify_track_id": "7LVHVU3tWfcxj5aiPFEW4Q",
+            "song_title": "Fix You",
+            "label": 1,
+            "emotion": "Compassion",
+            "session_type": "personal",
+            "subject_id": 8,
+            "id": 3096895971,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "55WIafaNg5WMRLMEMaIf4e",
+            "song_title": "Rewind",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "other",
+            "subject_id": 8,
+            "id": 1555197220,
+            "song_author": [
+                "Vasco Rossi"
+            ]
+        },
+        {
+            "spotify_track_id": "36qZIsik56PiT7HnM58e8g",
+            "song_title": "Eppure sentire (Un senso di te)",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "other",
+            "subject_id": 8,
+            "id": 7933831782,
+            "song_author": [
+                "Elisa"
+            ]
+        },
+        {
+            "spotify_track_id": "4aX4pkZnzrqGDQ2S2XJsmQ",
+            "song_title": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) - Remix",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "other",
+            "subject_id": 8,
+            "id": 2644432196,
+            "song_author": [
+                "Master KG",
+                "Burna Boy",
+                "Nomcebo Zikode"
+            ]
+        },
+        {
+            "spotify_track_id": "0ZFeVCKCMCXUQ1TKVd2azW",
+            "song_title": "The Sound of Silence",
+            "label": 1,
+            "emotion": "Compassion",
+            "session_type": "other",
+            "subject_id": 8,
+            "id": 4675514143,
+            "song_author": [
+                "Pentatonix"
+            ]
+        },
+        {
+            "spotify_track_id": "05G23JkXHRv3NJ9hENaafi",
+            "song_title": "Anche Fragile",
+            "label": 2,
+            "emotion": "Guilt",
+            "session_type": "other",
+            "subject_id": 8,
+            "id": 1939422702,
+            "song_author": [
+                "Elisa"
+            ]
+        },
+        {
+            "spotify_track_id": "02pyQSEZ1DlpyMhSNE2L69",
+            "song_title": "Hai un amico in me",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "personal",
+            "subject_id": 9,
+            "id": 7614455755,
+            "song_author": [
+                "Riccardo Cocciante"
+            ]
+        },
+        {
+            "spotify_track_id": "7o2CTH4ctstm8TNelqjb51",
+            "song_title": "Sweet Child O' Mine",
+            "label": 1,
+            "emotion": "Contentment",
+            "session_type": "personal",
+            "subject_id": 9,
+            "id": 7659822209,
+            "song_author": [
+                "Guns N' Roses"
+            ]
+        },
+        {
+            "spotify_track_id": "2IZZqH4K02UIYg5EohpNHF",
+            "song_title": "Zombie",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 9,
+            "id": 8921956452,
+            "song_author": [
+                "The Cranberries"
+            ]
+        },
+        {
+            "spotify_track_id": "4ylWMuGbMXNDgDd8lErEle",
+            "song_title": "The Greatest Show",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "personal",
+            "subject_id": 9,
+            "id": 3218016765,
+            "song_author": [
+                "Hugh Jackman",
+                "Keala Settle",
+                "Zac Efron",
+                "Zendaya",
+                "The Greatest Showman Ensemble"
+            ]
+        },
+        {
+            "spotify_track_id": "3AJwUDP919kvQ9QcozQPxg",
+            "song_title": "Yellow",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "personal",
+            "subject_id": 9,
+            "id": 5028307864,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "2ZBNclC5wm4GtiWaeh0DMx",
+            "song_title": "Single Ladies (Put a Ring on It)",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "other",
+            "subject_id": 9,
+            "id": 7245345626,
+            "song_author": [
+                "Beyonc\u00e9"
+            ]
+        },
+        {
+            "spotify_track_id": "1qDrWA6lyx8cLECdZE7TV7",
+            "song_title": "Somebody That I Used To Know",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "other",
+            "subject_id": 9,
+            "id": 5625289942,
+            "song_author": [
+                "Gotye",
+                "Kimbra"
+            ]
+        },
+        {
+            "spotify_track_id": "0IeKW0rmQ79Ka9WfR9Nagt",
+            "song_title": "Popolo mio",
+            "label": 2,
+            "emotion": "Disappointment",
+            "session_type": "other",
+            "subject_id": 9,
+            "id": 3322571246,
+            "song_author": [
+                "Marco Frisina"
+            ]
+        },
+        {
+            "spotify_track_id": "11IXRdEjiH0KL8nh4G1j7d",
+            "song_title": "Now We Are Free",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 9,
+            "id": 5834815628,
+            "song_author": [
+                "Lisa Gerrard",
+                "Klaus Badelt",
+                "Hans Zimmer",
+                "Gavin Greenaway",
+                "The Lyndhurst Orchestra"
+            ]
+        },
+        {
+            "spotify_track_id": "6tsfGbVHWirffWWUUmtalg",
+            "song_title": "Empty Spaces - 2011 Remastered Version",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 11,
+            "id": 9903556545,
+            "song_author": [
+                "Pink Floyd"
+            ]
+        },
+        {
+            "spotify_track_id": "1esX5rtwwssnsEQNQk0HGg",
+            "song_title": "Something Human",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 11,
+            "id": 4466858062,
+            "song_author": [
+                "Muse"
+            ]
+        },
+        {
+            "spotify_track_id": "1PWnAEQcbwQwK759otUbta",
+            "song_title": "Writing's On The Wall - From \"Spectre\" Soundtrack",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "personal",
+            "subject_id": 11,
+            "id": 1036331628,
+            "song_author": [
+                "Sam Smith"
+            ]
+        },
+        {
+            "spotify_track_id": "5ZguKpURKjxp6lLmLFyKZs",
+            "song_title": "Quattru tari'",
+            "label": 3,
+            "emotion": "Contempt",
+            "session_type": "personal",
+            "subject_id": 11,
+            "id": 8039661904,
+            "song_author": [
+                "Rosa Balistreri"
+            ]
+        },
+        {
+            "spotify_track_id": "6QqeEMIz3Hbi8SPAzrrVy5",
+            "song_title": "Over You",
+            "label": 1,
+            "emotion": "Admiration",
+            "session_type": "personal",
+            "subject_id": 11,
+            "id": 8269497269,
+            "song_author": [
+                "Supertramp"
+            ]
+        },
+        {
+            "spotify_track_id": "1vyV7cxMnu5BEEEANpJy7u",
+            "song_title": "Verdura",
+            "label": 3,
+            "emotion": "Contempt",
+            "session_type": "other",
+            "subject_id": 11,
+            "id": 5601425099,
+            "song_author": [
+                "Pinguini Tattici Nucleari"
+            ]
+        },
+        {
+            "spotify_track_id": "43RiFCiU9c18mFkoLViAog",
+            "song_title": "C'\u00e8 sempre una canzone",
+            "label": 1,
+            "emotion": "Compassion",
+            "session_type": "other",
+            "subject_id": 11,
+            "id": 9632679687,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "2GiJYvgVaD2HtM8GqD9EgQ",
+            "song_title": "Electric Love",
+            "label": 1,
+            "emotion": "Admiration",
+            "session_type": "other",
+            "subject_id": 11,
+            "id": 6838666719,
+            "song_author": [
+                "B\u00d8RNS"
+            ]
+        },
+        {
+            "spotify_track_id": "40kq6PVQ2E6zgmnGfZtG6M",
+            "song_title": "Perfetti sconosciuti",
+            "label": 2,
+            "emotion": "Disappointment",
+            "session_type": "other",
+            "subject_id": 11,
+            "id": 3096596590,
+            "song_author": [
+                "Fiorella Mannoia"
+            ]
+        },
+        {
+            "spotify_track_id": "3zl7j5ua8mF4JDYuxrfo01",
+            "song_title": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 11,
+            "id": 4844792828,
+            "song_author": [
+                "Ed Sheeran",
+                "Andrea Bocelli"
+            ]
+        },
+        {
+            "spotify_track_id": "2ZBNclC5wm4GtiWaeh0DMx",
+            "song_title": "Single Ladies (Put a Ring on It)",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "personal",
+            "subject_id": 7,
+            "id": 3723881509,
+            "song_author": [
+                "Beyonc\u00e9"
+            ]
+        },
+        {
+            "spotify_track_id": "2nMeu6UenVvwUktBCpLMK9",
+            "song_title": "Young And Beautiful",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "personal",
+            "subject_id": 7,
+            "id": 4781312231,
+            "song_author": [
+                "Lana Del Rey"
+            ]
+        },
+        {
+            "spotify_track_id": "4zdfvfCudMSDKY9kjQbhj8",
+            "song_title": "E yo mamma",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 7,
+            "id": 3969424776,
+            "song_author": [
+                "Coez"
+            ]
+        },
+        {
+            "spotify_track_id": "1zMDIP0D1qFp8h2gKlj1ut",
+            "song_title": "L'amore si odia (feat. Fiorella Mannoia)",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 7,
+            "id": 5570824274,
+            "song_author": [
+                "Noemi",
+                "Fiorella Mannoia"
+            ]
+        },
+        {
+            "spotify_track_id": "2xqyJa4BRzrEM4HQVgeazW",
+            "song_title": "MA IL CIELO E' SEMPRE BLU (ITALIANSTARS4LIFE)",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 7,
+            "id": 7242492203,
+            "song_author": [
+                "ITALIAN ALLSTARS 4 LIFE"
+            ]
+        },
+        {
+            "spotify_track_id": "4CQnIoccCBtsiBeb1jBFiZ",
+            "song_title": "Danza del Osos",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "other",
+            "subject_id": 7,
+            "id": 4816131098,
+            "song_author": [
+                "Danzante Banda Celta"
+            ]
+        },
+        {
+            "spotify_track_id": "2OELzdlkfD8XKGhx68GoLG",
+            "song_title": "Helvetia",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "other",
+            "subject_id": 7,
+            "id": 2566335050,
+            "song_author": [
+                "Fernando Vel\u00e1zquez"
+            ]
+        },
+        {
+            "spotify_track_id": "4KTvBpuyzikbShNQ2wl3NQ",
+            "song_title": "Peponi (Paradise) [Live]",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "other",
+            "subject_id": 7,
+            "id": 3386464197,
+            "song_author": [
+                "The Piano Guys",
+                "Alex Boy\u00e9"
+            ]
+        },
+        {
+            "spotify_track_id": "11IXRdEjiH0KL8nh4G1j7d",
+            "song_title": "Now We Are Free",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 7,
+            "id": 8531768944,
+            "song_author": [
+                "Lisa Gerrard",
+                "Klaus Badelt",
+                "Hans Zimmer",
+                "Gavin Greenaway",
+                "The Lyndhurst Orchestra"
+            ]
+        },
+        {
+            "spotify_track_id": "1fdCjH8Y8n9j7lFr7tLbfm",
+            "song_title": "Per dimenticare",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "personal",
+            "subject_id": 0,
+            "id": 3105886107,
+            "song_author": [
+                "Zero Assoluto"
+            ]
+        },
+        {
+            "spotify_track_id": "0swoHiwTazywpoqiKDUtGQ",
+            "song_title": "La Luna e la Gatta (feat. Tommaso Paradiso, Jovanotti, Calcutta)",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "personal",
+            "subject_id": 0,
+            "id": 8012044164,
+            "song_author": [
+                "Takagi & Ketra",
+                "Tommaso Paradiso",
+                "Jovanotti",
+                "Calcutta "
+            ]
+        },
+        {
+            "spotify_track_id": "33jt3kYWjQzqn3xyYQ5ZEh",
+            "song_title": "Cheek To Cheek",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 0,
+            "id": 3093701702,
+            "song_author": [
+                "Ella Fitzgerald",
+                "Louis Armstrong"
+            ]
+        },
+        {
+            "spotify_track_id": "2aAbjYIg2uHBm8sBFlGdBZ",
+            "song_title": "Main Titles",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 0,
+            "id": 3454262054,
+            "song_author": [
+                "Charlie Clouser"
+            ]
+        },
+        {
+            "spotify_track_id": "0HpKuz1HfXxRzNnUqfwzgF",
+            "song_title": "Piccola stella senza cielo",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 0,
+            "id": 7729918684,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "1WdzDux7Vym4yQi9unQirr",
+            "song_title": "Amore senza fine",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "other",
+            "subject_id": 0,
+            "id": 6667049702,
+            "song_author": [
+                "Pino Daniele"
+            ]
+        },
+        {
+            "spotify_track_id": "1jlG3KJ3gdYmhfuySFfpO1",
+            "song_title": "I'm with You",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 0,
+            "id": 7594592186,
+            "song_author": [
+                "Avril Lavigne"
+            ]
+        },
+        {
+            "spotify_track_id": "2r1SRt8bhtR6a9bMRR0AgV",
+            "song_title": "La storia infinita",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "other",
+            "subject_id": 0,
+            "id": 4104057682,
+            "song_author": [
+                "Pinguini Tattici Nucleari"
+            ]
+        },
+        {
+            "spotify_track_id": "3E1FgPTXX203rgBTD5nlKF",
+            "song_title": "Il bacio di Klimt",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "other",
+            "subject_id": 0,
+            "id": 6361287970,
+            "song_author": [
+                "Emanuele Aloia"
+            ]
+        },
+        {
+            "spotify_track_id": "7AYGqCVNob6SORGbboUc44",
+            "song_title": "Anima Perduta",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "other",
+            "subject_id": 0,
+            "id": 8679265186,
+            "song_author": [
+                "Pathos"
+            ]
+        },
+        {
+            "spotify_track_id": "5P2sVkO2mhgeDicQc1btfj",
+            "song_title": "Pensiero stupendo",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 12,
+            "id": 4004617796,
+            "song_author": [
+                "Patty Pravo"
+            ]
+        },
+        {
+            "spotify_track_id": "45aBsnKRWUzhwbcqOJLwfe",
+            "song_title": "This Is Me",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 12,
+            "id": 3368028902,
+            "song_author": [
+                "Keala Settle",
+                "The Greatest Showman Ensemble"
+            ]
+        },
+        {
+            "spotify_track_id": "7LuCe6qxjtNnfKO4821SPT",
+            "song_title": "Ho imparato a sognare",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 12,
+            "id": 1379215716,
+            "song_author": [
+                "Fiorella Mannoia"
+            ]
+        },
+        {
+            "spotify_track_id": "55xly70WJY1cx5qsoogaqs",
+            "song_title": "Main Title/John Williams/Jaws - From The \"Jaws\" Soundtrack",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 12,
+            "id": 3140286472,
+            "song_author": [
+                "John Williams"
+            ]
+        },
+        {
+            "spotify_track_id": "1tx2oinycuW0tfPrwUJuTU",
+            "song_title": "Che vita meravigliosa",
+            "label": 0,
+            "emotion": "Pride",
+            "session_type": "personal",
+            "subject_id": 12,
+            "id": 7418038546,
+            "song_author": [
+                "Diodato"
+            ]
+        },
+        {
+            "spotify_track_id": "3mj23ZA8LARtZSSVJxIZOi",
+            "song_title": "Rosso di rabbia",
+            "label": 3,
+            "emotion": "Disgust",
+            "session_type": "other",
+            "subject_id": 12,
+            "id": 5700100690,
+            "song_author": [
+                "Anastasio"
+            ]
+        },
+        {
+            "spotify_track_id": "6ZFbXIJkuI1dVNWvzJzown",
+            "song_title": "Time",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 12,
+            "id": 7481350683,
+            "song_author": [
+                "Hans Zimmer"
+            ]
+        },
+        {
+            "spotify_track_id": "1n4esvV7r2y5heDizjTj14",
+            "song_title": "Voci - Namanama Version",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 12,
+            "id": 7793268524,
+            "song_author": [
+                "Zucchero"
+            ]
+        },
+        {
+            "spotify_track_id": "2M4ZS9fZq86hVmO5ZOKvyb",
+            "song_title": "Serenata Rap",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 12,
+            "id": 1140388329,
+            "song_author": [
+                "Jovanotti"
+            ]
+        },
+        {
+            "spotify_track_id": "1u4kGo8MOiw8eig7k1paAo",
+            "song_title": "Il canto del mare",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 14,
+            "id": 4719909019,
+            "song_author": [
+                "Marco Frisina"
+            ]
+        },
+        {
+            "spotify_track_id": "2nLtzopw4rPReszdYBJU6h",
+            "song_title": "Numb",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 14,
+            "id": 4495132490,
+            "song_author": [
+                "Linkin Park"
+            ]
+        },
+        {
+            "spotify_track_id": "1IOlhRBZ8ek5Ix7QW6owiO",
+            "song_title": "Pokemon Advanced Battle",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "personal",
+            "subject_id": 14,
+            "id": 7887564928,
+            "song_author": [
+                "Cristina D'Avena",
+                "Giorgio Vanni"
+            ]
+        },
+        {
+            "spotify_track_id": "6ietSw6t2wYPuxStaSsGh5",
+            "song_title": "Liberi Fatali (Final Fantasy VIII)",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 14,
+            "id": 4025883015,
+            "song_author": [
+                "Nobuo Uematsu"
+            ]
+        },
+        {
+            "spotify_track_id": "0JlcGuogSjgZsa0rkLdoBM",
+            "song_title": "Ci sono anch'io",
+            "label": 1,
+            "emotion": "Admiration",
+            "session_type": "personal",
+            "subject_id": 14,
+            "id": 8066471705,
+            "song_author": [
+                "Angelo Di Guardo",
+                "Mark"
+            ]
+        },
+        {
+            "spotify_track_id": "0lUGrc1XZ6TJ6jWxk103zL",
+            "song_title": "Turandot / Act 3: Nessun dorma! - Live",
+            "label": 1,
+            "emotion": "Compassion",
+            "session_type": "other",
+            "subject_id": 14,
+            "id": 4975883943,
+            "song_author": [
+                "Giacomo Puccini",
+                "Luciano Pavarotti",
+                "Orchestra del Teatro Arena di Verona",
+                "Armando Gatto"
+            ]
+        },
+        {
+            "spotify_track_id": "6FJbvdUSkr1tyXdVZ2UlBR",
+            "song_title": "Bound To You - Burlesque Original Motion Picture Soundtrack",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "other",
+            "subject_id": 14,
+            "id": 7278971454,
+            "song_author": [
+                "Christina Aguilera"
+            ]
+        },
+        {
+            "spotify_track_id": "1n4esvV7r2y5heDizjTj14",
+            "song_title": "Voci - Namanama Version",
+            "label": 0,
+            "emotion": "Pride",
+            "session_type": "other",
+            "subject_id": 14,
+            "id": 7793853278,
+            "song_author": [
+                "Zucchero"
+            ]
+        },
+        {
+            "spotify_track_id": "5QNFdjlkHHdOyhutGef68K",
+            "song_title": "Al Tuo Matrimonio",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "other",
+            "subject_id": 14,
+            "id": 7550116739,
+            "song_author": [
+                "Cesare Cremonini"
+            ]
+        },
+        {
+            "spotify_track_id": "6dGnYIeXmHdcikdzNNDMm2",
+            "song_title": "Here Comes The Sun - Remastered 2009",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 10,
+            "id": 2958450681,
+            "song_author": [
+                "The Beatles"
+            ]
+        },
+        {
+            "spotify_track_id": "21eimqDW4tvXXTfqGAvI16",
+            "song_title": "Pensa",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 10,
+            "id": 8131355824,
+            "song_author": [
+                "Fabrizio Moro"
+            ]
+        },
+        {
+            "spotify_track_id": "09VLSblRnWCvyJb8rNajRJ",
+            "song_title": "I Bambini Fanno Ooh",
+            "label": 1,
+            "emotion": "Admiration",
+            "session_type": "personal",
+            "subject_id": 10,
+            "id": 5018959303,
+            "song_author": [
+                "Povia"
+            ]
+        },
+        {
+            "spotify_track_id": "7CIoJE0JfVFcmmUY3fFojH",
+            "song_title": "Hungarian Rhapsody No. 2 in C-Sharp Minor, S. 244/2",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 10,
+            "id": 5905614682,
+            "song_author": [
+                "Franz Liszt",
+                "Vladimir Horowitz"
+            ]
+        },
+        {
+            "spotify_track_id": "7aE5WXu5sFeNRh3Z05wwu4",
+            "song_title": "Wish You Were Here - 2011 Remastered Version",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "personal",
+            "subject_id": 10,
+            "id": 9044452233,
+            "song_author": [
+                "Pink Floyd"
+            ]
+        },
+        {
+            "spotify_track_id": "0h9fnCSnbUgOEgibnQByFv",
+            "song_title": "Everyday Life",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 10,
+            "id": 4972329495,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "6tsfGbVHWirffWWUUmtalg",
+            "song_title": "Empty Spaces - 2011 Remastered Version",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "other",
+            "subject_id": 10,
+            "id": 7553120384,
+            "song_author": [
+                "Pink Floyd"
+            ]
+        },
+        {
+            "spotify_track_id": "67WTwafOMgegV6ABnBQxcE",
+            "song_title": "Some Nights",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 10,
+            "id": 3909196796,
+            "song_author": [
+                "fun."
+            ]
+        },
+        {
+            "spotify_track_id": "6GLmGfALwjzCaOiHwgfU7g",
+            "song_title": "Ti dedico il silenzio",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "personal",
+            "subject_id": 25,
+            "id": 3856029503,
+            "song_author": [
+                "Ultimo"
+            ]
+        },
+        {
+            "spotify_track_id": "6h5PAsRni4IRlxWr6uDPTP",
+            "song_title": "More Than You Know",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "personal",
+            "subject_id": 25,
+            "id": 1096683105,
+            "song_author": [
+                "Axwell /\\ Ingrosso"
+            ]
+        },
+        {
+            "spotify_track_id": "6lOWoTqVnAWXchddtTH31W",
+            "song_title": "Leave a Light On",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "personal",
+            "subject_id": 25,
+            "id": 7314658857,
+            "song_author": [
+                "Tom Walker"
+            ]
+        },
+        {
+            "spotify_track_id": "2Lh37O1OXaYRE4bvALnDvq",
+            "song_title": "Gold And Oden",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 25,
+            "id": 8024404809,
+            "song_author": [
+                "Kohei Tanaka",
+                "Shir\u014d Hamaguchi"
+            ]
+        },
+        {
+            "spotify_track_id": "4VVG3HBGaqSNZqIpmewIA6",
+            "song_title": "Sciroppo (feat. DrefGold)",
+            "label": 3,
+            "emotion": "Hate",
+            "session_type": "personal",
+            "subject_id": 25,
+            "id": 4215369788,
+            "song_author": [
+                "Sfera Ebbasta",
+                "DrefGold"
+            ]
+        },
+        {
+            "spotify_track_id": "7klLXey9V4OrC6mwUXf8Fc",
+            "song_title": "Davy Jones",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "other",
+            "subject_id": 25,
+            "id": 8157991642,
+            "song_author": [
+                "Hans Zimmer"
+            ]
+        },
+        {
+            "spotify_track_id": "7gQAFGUyHPcY0cQNPsjMf0",
+            "song_title": "Crying at the Discoteque - Radio Edit",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "other",
+            "subject_id": 25,
+            "id": 4762556975,
+            "song_author": [
+                "Alcazar"
+            ]
+        },
+        {
+            "spotify_track_id": "56LYsQITV7nEggGBVuu846",
+            "song_title": "Wing$",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 25,
+            "id": 4172333126,
+            "song_author": [
+                "Macklemore & Ryan Lewis"
+            ]
+        },
+        {
+            "spotify_track_id": "2YsfmsmRwWaFV7YLvTGFcm",
+            "song_title": "Portami via",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "other",
+            "subject_id": 25,
+            "id": 3455241290,
+            "song_author": [
+                "Fabrizio Moro"
+            ]
+        },
+        {
+            "spotify_track_id": "56Km1EiKJMcV0Z70xRz9qi",
+            "song_title": "Estate",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "personal",
+            "subject_id": 4,
+            "id": 4746645675,
+            "song_author": [
+                "Jovanotti"
+            ]
+        },
+        {
+            "spotify_track_id": "31VOknKjFrEX47bZXzqcoF",
+            "song_title": "Next To Me",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 4,
+            "id": 1471582564,
+            "song_author": [
+                "Imagine Dragons"
+            ]
+        },
+        {
+            "spotify_track_id": "4L9io4XpkeysnBBbn6VH3r",
+            "song_title": "Marche slave (Slavonic March), Op. 31",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 4,
+            "id": 6144941167,
+            "song_author": [
+                "Pyotr Ilyich Tchaikovsky",
+                "Russian National Orchestra",
+                "Mikhail Pletnev"
+            ]
+        },
+        {
+            "spotify_track_id": "6Tvzf3VEi16JMhAgOwdt2y",
+            "song_title": "Birds",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 4,
+            "id": 4575067398,
+            "song_author": [
+                "Imagine Dragons"
+            ]
+        },
+        {
+            "spotify_track_id": "7oTQ4d0UJeH8LOyvpfd5uW",
+            "song_title": "I\u2019m So Sorry",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 4,
+            "id": 1841858497,
+            "song_author": [
+                "Imagine Dragons"
+            ]
+        },
+        {
+            "spotify_track_id": "0pVfvpMSFsabyuydMihDi1",
+            "song_title": "Ho amato tutto",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "other",
+            "subject_id": 4,
+            "id": 7081425536,
+            "song_author": [
+                "Tosca"
+            ]
+        },
+        {
+            "spotify_track_id": "3spdoTYpuCpmq19tuD0bOe",
+            "song_title": "My Way",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 4,
+            "id": 5527955318,
+            "song_author": [
+                "Frank Sinatra"
+            ]
+        },
+        {
+            "spotify_track_id": "0FB5ILDICqwK6xj7W1RP9u",
+            "song_title": "Hall of Fame",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "other",
+            "subject_id": 4,
+            "id": 1424199427,
+            "song_author": [
+                "The Script"
+            ]
+        },
+        {
+            "spotify_track_id": "4qFLzh0BSi0KpPYbTWHENQ",
+            "song_title": "Partir\u00f2",
+            "label": 3,
+            "emotion": "Hate",
+            "session_type": "other",
+            "subject_id": 4,
+            "id": 3966019638,
+            "song_author": [
+                "Nesli"
+            ]
+        },
+        {
+            "spotify_track_id": "1PAEeikWsmjY5pB3hbuF7G",
+            "song_title": "Domani - Uniti per l'Abruzzo",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "other",
+            "subject_id": 4,
+            "id": 5539348641,
+            "song_author": [
+                "Unided Group"
+            ]
+        }
+    ],
+    "val_trial": [
+        {
+            "spotify_track_id": "4JJ5zGKnb1IpERyBrfmb1y",
+            "song_title": "A Rush of Blood to the Head",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 23,
+            "id": 3640846268,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "36qZIsik56PiT7HnM58e8g",
+            "song_title": "Eppure sentire (Un senso di te)",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "other",
+            "subject_id": 23,
+            "id": 7211720739,
+            "song_author": [
+                "Elisa"
+            ]
+        },
+        {
+            "spotify_track_id": "6Q4HcsWQpfXHvIZTRbTIuT",
+            "song_title": "LA PROVA DEL CUOCO",
+            "label": 3,
+            "emotion": "Disgust",
+            "session_type": "personal",
+            "subject_id": 2,
+            "id": 5802213617,
+            "song_author": [
+                "FSK SATELLITE",
+                "Taxi B",
+                "Sapobully",
+                "chiello_fsk",
+                "Greg Willen"
+            ]
+        },
+        {
+            "spotify_track_id": "5a0XvkKfdiUpBDat4Y4t9Y",
+            "song_title": "Finch\u00e9 Ti Va",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 2,
+            "id": 6074147814,
+            "song_author": [
+                "Tiromancino"
+            ]
+        },
+        {
+            "spotify_track_id": "18rHhuIUwxXh3SdsBv6oM9",
+            "song_title": "Buongiorno - feat. G-CREW",
+            "label": 3,
+            "emotion": "Contempt",
+            "session_type": "personal",
+            "subject_id": 17,
+            "id": 5431744930,
+            "song_author": [
+                "Gigi D'Alessio",
+                "Vale Lambo",
+                "MV Killa",
+                "LDA",
+                "CoCo",
+                "Franco Ricciardi",
+                "Lele Blade",
+                "Enzo Dong",
+                "Clementino",
+                "Geolier",
+                "Samurai Jay"
+            ]
+        },
+        {
+            "spotify_track_id": "5XFbapgbeH9AIl3fsEOBZe",
+            "song_title": "La donna del mio amico",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 17,
+            "id": 3491237286,
+            "song_author": [
+                "Pooh"
+            ]
+        },
+        {
+            "spotify_track_id": "4JtvyWkWQTPVcroZf8JJkp",
+            "song_title": "Heart of Courage",
+            "label": 0,
+            "emotion": "Pride",
+            "session_type": "personal",
+            "subject_id": 18,
+            "id": 8905221418,
+            "song_author": [
+                "Thomas Bergersen",
+                "Two Steps from Hell"
+            ]
+        },
+        {
+            "spotify_track_id": "4JehYebiI9JE8sR8MisGVb",
+            "song_title": "Halo",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 18,
+            "id": 1864017644,
+            "song_author": [
+                "Beyonc\u00e9"
+            ]
+        },
+        {
+            "spotify_track_id": "3590AAEoqH50z4UmhMIY85",
+            "song_title": "Torna a casa",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 1,
+            "id": 7647407526,
+            "song_author": [
+                "M\u00e5neskin"
+            ]
+        },
+        {
+            "spotify_track_id": "2aAbjYIg2uHBm8sBFlGdBZ",
+            "song_title": "Main Titles",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "other",
+            "subject_id": 1,
+            "id": 3194435641,
+            "song_author": [
+                "Charlie Clouser"
+            ]
+        },
+        {
+            "spotify_track_id": "32KhwuYoWds724Lx3Er1PZ",
+            "song_title": "Un Amico Come Me",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 21,
+            "id": 6091117371,
+            "song_author": [
+                "Gigi Proietti"
+            ]
+        },
+        {
+            "spotify_track_id": "5kqIPrATaCc2LqxVWzQGbk",
+            "song_title": "7 Years",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "other",
+            "subject_id": 21,
+            "id": 3246365744,
+            "song_author": [
+                "Lukas Graham"
+            ]
+        },
+        {
+            "spotify_track_id": "60a0Rd6pjrkxjPbaKzXjfq",
+            "song_title": "In the End",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "personal",
+            "subject_id": 20,
+            "id": 7833179198,
+            "song_author": [
+                "Linkin Park"
+            ]
+        },
+        {
+            "spotify_track_id": "3Iqei9G7fo3g0s7cMMULo2",
+            "song_title": "Alleria - Remastered 2014",
+            "label": 1,
+            "emotion": "Admiration",
+            "session_type": "other",
+            "subject_id": 20,
+            "id": 6664049660,
+            "song_author": [
+                "Pino Daniele"
+            ]
+        },
+        {
+            "spotify_track_id": "5T8EDUDqKcs6OSOwEsfqG7",
+            "song_title": "Don't Stop Me Now - Remastered 2011",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 8,
+            "id": 3558627660,
+            "song_author": [
+                "Queen"
+            ]
+        },
+        {
+            "spotify_track_id": "2nLtzopw4rPReszdYBJU6h",
+            "song_title": "Numb",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "other",
+            "subject_id": 8,
+            "id": 2434497192,
+            "song_author": [
+                "Linkin Park"
+            ]
+        },
+        {
+            "spotify_track_id": "7wTncdYglIWFBf8nRrUe8S",
+            "song_title": "Ricordami (Lullaby)",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 16,
+            "id": 5555580087,
+            "song_author": [
+                "Emiliano Coltorti",
+                "Charlotte Infussi D'Amico"
+            ]
+        },
+        {
+            "spotify_track_id": "4IApitZiYjIYTGp9IvHofd",
+            "song_title": "Sei",
+            "label": 2,
+            "emotion": "Disappointment",
+            "session_type": "other",
+            "subject_id": 16,
+            "id": 1743279177,
+            "song_author": [
+                "Premiata Forneria Marconi"
+            ]
+        },
+        {
+            "spotify_track_id": "3oQomOPRNQ5NVFUmLJHbAV",
+            "song_title": "Over the Rainbow",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "personal",
+            "subject_id": 9,
+            "id": 5288129913,
+            "song_author": [
+                "Israel Kamakawiwo'ole"
+            ]
+        },
+        {
+            "spotify_track_id": "4N0fzRX3T7QkOecp3pkWpp",
+            "song_title": "With Or Without You",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "other",
+            "subject_id": 9,
+            "id": 5360615785,
+            "song_author": [
+                "U2"
+            ]
+        },
+        {
+            "spotify_track_id": "5T8EDUDqKcs6OSOwEsfqG7",
+            "song_title": "Don't Stop Me Now - Remastered 2011",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "personal",
+            "subject_id": 11,
+            "id": 6285732319,
+            "song_author": [
+                "Queen"
+            ]
+        },
+        {
+            "spotify_track_id": "2fXQQd6oheRdgeqGJbr4VO",
+            "song_title": "Nessuna conseguenza",
+            "label": 0,
+            "emotion": "Pride",
+            "session_type": "other",
+            "subject_id": 11,
+            "id": 1589487988,
+            "song_author": [
+                "Fiorella Mannoia"
+            ]
+        },
+        {
+            "spotify_track_id": "22UAhLdTkRsP9LDteAVrYD",
+            "song_title": "Ci sto pensando da un p\u00f2",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 7,
+            "id": 6938335341,
+            "song_author": [
+                "Negramaro"
+            ]
+        },
+        {
+            "spotify_track_id": "44wHGbEAAalNeTIrI2viiG",
+            "song_title": "Fare a meno di te",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "other",
+            "subject_id": 7,
+            "id": 7927935902,
+            "song_author": [
+                "Due Di Picche"
+            ]
+        },
+        {
+            "spotify_track_id": "3dYD57lRAUcMHufyqn9GcI",
+            "song_title": "Take Me To Church",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 0,
+            "id": 4962282851,
+            "song_author": [
+                "Hozier"
+            ]
+        },
+        {
+            "spotify_track_id": "2NVbNOpBfEQjsSjDxzb05q",
+            "song_title": "Tab\u00f9",
+            "label": 3,
+            "emotion": "Disgust",
+            "session_type": "other",
+            "subject_id": 0,
+            "id": 1319113881,
+            "song_author": [
+                "Serena Brancale"
+            ]
+        },
+        {
+            "spotify_track_id": "3sc9YIcDSPCXsQ0zzX3JLW",
+            "song_title": "La Cura",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "personal",
+            "subject_id": 12,
+            "id": 7680037514,
+            "song_author": [
+                "Franco Battiato"
+            ]
+        },
+        {
+            "spotify_track_id": "5iwz1NiezX7WWjnCgY5TH4",
+            "song_title": "Calma - Remix",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "other",
+            "subject_id": 12,
+            "id": 2254133854,
+            "song_author": [
+                "Pedro Cap\u00f3",
+                "Farruko"
+            ]
+        },
+        {
+            "spotify_track_id": "5iUvsXePJTwLTGchrMBiRs",
+            "song_title": "Minchia Signor tenente - As Made Famous By Giorgio Faletti",
+            "label": 2,
+            "emotion": "Shame",
+            "session_type": "personal",
+            "subject_id": 15,
+            "id": 8005060691,
+            "song_author": [
+                "Karaoke Experts Band"
+            ]
+        },
+        {
+            "spotify_track_id": "1nhEQjgj0NrtAoDuFEhMEL",
+            "song_title": "New York",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 15,
+            "id": 8291829604,
+            "song_author": [
+                "Thegiornalisti"
+            ]
+        },
+        {
+            "spotify_track_id": "0FpMQ5fzfinGFdUUXgrEN3",
+            "song_title": "Mary",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 14,
+            "id": 1415214270,
+            "song_author": [
+                "Gemelli Diversi"
+            ]
+        },
+        {
+            "spotify_track_id": "1wx5hbovwZoPeTUom8cuQ4",
+            "song_title": "Urlando contro il cielo",
+            "label": 1,
+            "emotion": "Contentment",
+            "session_type": "other",
+            "subject_id": 14,
+            "id": 7490088394,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "4xx3UI7cLCk1awQPAPLeHj",
+            "song_title": "Nuovo Cinema Paradiso",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 10,
+            "id": 6767591054,
+            "song_author": [
+                "Ennio Morricone"
+            ]
+        },
+        {
+            "spotify_track_id": "5ZguKpURKjxp6lLmLFyKZs",
+            "song_title": "Quattru tari'",
+            "label": 3,
+            "emotion": "Contempt",
+            "session_type": "other",
+            "subject_id": 10,
+            "id": 6079167681,
+            "song_author": [
+                "Rosa Balistreri"
+            ]
+        },
+        {
+            "spotify_track_id": "6nek1Nin9q48AVZcWs9e9D",
+            "song_title": "Paradise",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 25,
+            "id": 3396337175,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "5vV3MXW9acnFuYeYO08CHC",
+            "song_title": "The Void",
+            "label": 0,
+            "emotion": "Interest",
+            "session_type": "other",
+            "subject_id": 25,
+            "id": 8271037554,
+            "song_author": [
+                "Muse"
+            ]
+        },
+        {
+            "spotify_track_id": "72aqCNAdOo6H4nrPyAivSV",
+            "song_title": "Te lo prometto",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 4,
+            "id": 6331565359,
+            "song_author": [
+                "Il Tre"
+            ]
+        },
+        {
+            "spotify_track_id": "3cfOd4CMv2snFaKAnMdnvK",
+            "song_title": "All Star",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "other",
+            "subject_id": 4,
+            "id": 4421422816,
+            "song_author": [
+                "Smash Mouth"
+            ]
+        },
+        {
+            "spotify_track_id": "1eAZH4LTThdnreJGX6DNd6",
+            "song_title": "Senza",
+            "label": 0,
+            "emotion": "Amusement",
+            "session_type": "personal",
+            "subject_id": 13,
+            "id": 8897115526,
+            "song_author": [
+                "Thegiornalisti"
+            ]
+        },
+        {
+            "spotify_track_id": "6r2BFEIErNwG0owW4rOQB8",
+            "song_title": "Everglow",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "other",
+            "subject_id": 13,
+            "id": 5035832854,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "4T9Zw4hmV0rx7od3wxbNj7",
+            "song_title": "Never",
+            "label": 3,
+            "emotion": "Hate",
+            "session_type": "personal",
+            "subject_id": 22,
+            "id": 8853043527,
+            "song_author": [
+                "Canova"
+            ]
+        },
+        {
+            "spotify_track_id": "2RSHsoi04658QL5xgQVov3",
+            "song_title": "Bad Liar",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "other",
+            "subject_id": 22,
+            "id": 1957453768,
+            "song_author": [
+                "Imagine Dragons"
+            ]
+        },
+        {
+            "spotify_track_id": "31QuXhy09js64az8vRvAKc",
+            "song_title": "Moonlight",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 19,
+            "id": 2357222194,
+            "song_author": [
+                "Message To Bears"
+            ]
+        },
+        {
+            "spotify_track_id": "2GiJYvgVaD2HtM8GqD9EgQ",
+            "song_title": "Electric Love",
+            "label": 1,
+            "emotion": "Contentment",
+            "session_type": "other",
+            "subject_id": 19,
+            "id": 1671587129,
+            "song_author": [
+                "B\u00d8RNS"
+            ]
+        },
+        {
+            "spotify_track_id": "3yelVZf4p9wDpWjPav5mOn",
+            "song_title": "Rescue Me",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 6,
+            "id": 7079957449,
+            "song_author": [
+                "Thirty Seconds To Mars"
+            ]
+        },
+        {
+            "spotify_track_id": "3PaQq5Zz9WPlyRUVTZ0z2K",
+            "song_title": "Kingdom Dance",
+            "label": 1,
+            "emotion": "Compassion",
+            "session_type": "other",
+            "subject_id": 6,
+            "id": 8894590720,
+            "song_author": [
+                "Alan Menken"
+            ]
+        },
+        {
+            "spotify_track_id": "3H4zdVdlEROthhSDHFrmAp",
+            "song_title": "Il confronto",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 3,
+            "id": 6023281672,
+            "song_author": [
+                "Marco Masini"
+            ]
+        },
+        {
+            "spotify_track_id": "7IbYC9Aix6P49vjzXhOSlQ",
+            "song_title": "Il sale della terra - Live",
+            "label": 0,
+            "emotion": "Interest",
+            "session_type": "other",
+            "subject_id": 3,
+            "id": 4060619220,
+            "song_author": [
+                "Ligabue"
+            ]
+        }
+    ],
+    "val_subject": [
+        {
+            "spotify_track_id": "78lgmZwycJ3nzsdgmPPGNx",
+            "song_title": "Immigrant Song - Remaster",
+            "label": 3,
+            "emotion": "Anger",
+            "session_type": "personal",
+            "subject_id": 24,
+            "id": 4274886008,
+            "song_author": [
+                "Led Zeppelin"
+            ]
+        },
+        {
+            "spotify_track_id": "1nhjMjke1c1gvdCpDHmakm",
+            "song_title": "9 primavere",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "personal",
+            "subject_id": 24,
+            "id": 1831156008,
+            "song_author": [
+                "Ermal Meta"
+            ]
+        },
+        {
+            "spotify_track_id": "56LYsQITV7nEggGBVuu846",
+            "song_title": "Wing$",
+            "label": 0,
+            "emotion": "Pride",
+            "session_type": "personal",
+            "subject_id": 24,
+            "id": 6283225806,
+            "song_author": [
+                "Macklemore & Ryan Lewis"
+            ]
+        },
+        {
+            "spotify_track_id": "09LvEjrTv7ojj1NCSaErmJ",
+            "song_title": "Crucifixion",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 24,
+            "id": 5578241007,
+            "song_author": [
+                "John Debney",
+                "Ron Allen",
+                "Chris Bleth",
+                "Nick Ingman & His Orchestra",
+                "Nick Ingman"
+            ]
+        },
+        {
+            "spotify_track_id": "3qtuOAI0YyfoBM1s7Tvm46",
+            "song_title": "La Nuova Stella Di Broadway",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "personal",
+            "subject_id": 24,
+            "id": 8900357806,
+            "song_author": [
+                "Cesare Cremonini"
+            ]
+        },
+        {
+            "spotify_track_id": "1OsjZeUg7cGuiCr4E8schs",
+            "song_title": "Need To Know (feat. Chance The Rapper)",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "personal",
+            "subject_id": 24,
+            "id": 3743156763,
+            "song_author": [
+                "Macklemore",
+                "Ryan Lewis",
+                "Chance the Rapper"
+            ]
+        },
+        {
+            "spotify_track_id": "2Ef73KZoTCmkABkxetqQ17",
+            "song_title": "A Me Me Piace 'O Blues - Remastered 2008",
+            "label": 1,
+            "emotion": "Contentment",
+            "session_type": "other",
+            "subject_id": 24,
+            "id": 4933402533,
+            "song_author": [
+                "Pino Daniele"
+            ]
+        },
+        {
+            "spotify_track_id": "0mHZ5IoR9iNM7HoZafOwcl",
+            "song_title": "Ed ero contentissimo",
+            "label": 3,
+            "emotion": "Disgust",
+            "session_type": "other",
+            "subject_id": 24,
+            "id": 5455527567,
+            "song_author": [
+                "Tiziano Ferro"
+            ]
+        },
+        {
+            "spotify_track_id": "7ki1hrpQFKiVKhnfBOnl1b",
+            "song_title": "Let's Make This Happen",
+            "label": 0,
+            "emotion": "Pleasure",
+            "session_type": "other",
+            "subject_id": 24,
+            "id": 4824313470,
+            "song_author": [
+                "Ben Wheeler"
+            ]
+        },
+        {
+            "spotify_track_id": "6E7p8AS6KZmtL97yyqbPMc",
+            "song_title": "L'ultimo grido della notte",
+            "label": 1,
+            "emotion": "Love",
+            "session_type": "other",
+            "subject_id": 24,
+            "id": 6225670944,
+            "song_author": [
+                "Thegiornalisti"
+            ]
+        },
+        {
+            "spotify_track_id": "1VLZV4idlXeZvpisIvoGMk",
+            "song_title": "CORNFLAKES",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "other",
+            "subject_id": 24,
+            "id": 2353056497,
+            "song_author": [
+                "COMETE"
+            ]
+        },
+        {
+            "spotify_track_id": "7wMq5n8mYSKlQIGECKUgTX",
+            "song_title": "Hall of Fame (feat. will.i.am)",
+            "label": 0,
+            "emotion": "Pride",
+            "session_type": "other",
+            "subject_id": 24,
+            "id": 7979819370,
+            "song_author": [
+                "The Script",
+                "will.i.am"
+            ]
+        },
+        {
+            "spotify_track_id": "2tJulUYLDKOg9XrtVkMgcJ",
+            "song_title": "Grenade",
+            "label": 0,
+            "emotion": "Interest",
+            "session_type": "personal",
+            "subject_id": 5,
+            "id": 4049226040,
+            "song_author": [
+                "Bruno Mars"
+            ]
+        },
+        {
+            "spotify_track_id": "0lP4HYLmvowOKdsQ7CVkuq",
+            "song_title": "The Kill",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "personal",
+            "subject_id": 5,
+            "id": 8619081757,
+            "song_author": [
+                "Thirty Seconds To Mars"
+            ]
+        },
+        {
+            "spotify_track_id": "2OELzdlkfD8XKGhx68GoLG",
+            "song_title": "Helvetia",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "personal",
+            "subject_id": 5,
+            "id": 7581022744,
+            "song_author": [
+                "Fernando Vel\u00e1zquez"
+            ]
+        },
+        {
+            "spotify_track_id": "6WEBwvsmpaoGxka0tSh5a7",
+            "song_title": "Won't Go Home Without You",
+            "label": 1,
+            "emotion": "Contentment",
+            "session_type": "personal",
+            "subject_id": 5,
+            "id": 5514468342,
+            "song_author": [
+                "Maroon 5"
+            ]
+        },
+        {
+            "spotify_track_id": "1iFIZUVDBCCkWe705FLXto",
+            "song_title": "Dosed",
+            "label": 1,
+            "emotion": "Compassion",
+            "session_type": "personal",
+            "subject_id": 5,
+            "id": 6617024018,
+            "song_author": [
+                "Red Hot Chili Peppers"
+            ]
+        },
+        {
+            "spotify_track_id": "0KAiuUOrLTIkzkpfpn9jb9",
+            "song_title": "Drive By",
+            "label": 0,
+            "emotion": "Joy",
+            "session_type": "personal",
+            "subject_id": 5,
+            "id": 9091124681,
+            "song_author": [
+                "Train"
+            ]
+        },
+        {
+            "spotify_track_id": "3skn2lauGk7Dx6bVIt5DVj",
+            "song_title": "Starlight",
+            "label": 1,
+            "emotion": "Relief",
+            "session_type": "other",
+            "subject_id": 5,
+            "id": 8170181283,
+            "song_author": [
+                "Muse"
+            ]
+        },
+        {
+            "spotify_track_id": "4UzVcXufOhGUwF56HT7b8M",
+            "song_title": "My Immortal",
+            "label": 3,
+            "emotion": "Fear",
+            "session_type": "other",
+            "subject_id": 5,
+            "id": 6595508347,
+            "song_author": [
+                "Evanescence"
+            ]
+        },
+        {
+            "spotify_track_id": "2uZVfvOK7MTjBTRICYmpso",
+            "song_title": "Birds (feat. Elisa)",
+            "label": 2,
+            "emotion": "Regret",
+            "session_type": "other",
+            "subject_id": 5,
+            "id": 2048625899,
+            "song_author": [
+                "Imagine Dragons",
+                "Elisa"
+            ]
+        },
+        {
+            "spotify_track_id": "0JlcGuogSjgZsa0rkLdoBM",
+            "song_title": "Ci sono anch'io",
+            "label": 1,
+            "emotion": "Contentment",
+            "session_type": "other",
+            "subject_id": 5,
+            "id": 2256012838,
+            "song_author": [
+                "Angelo Di Guardo",
+                "Mark"
+            ]
+        },
+        {
+            "spotify_track_id": "4BXkf6yww23Vdju7E1fUrn",
+            "song_title": "Whiskey Lullaby (feat. Alison Krauss)",
+            "label": 2,
+            "emotion": "Sadness",
+            "session_type": "other",
+            "subject_id": 5,
+            "id": 6581042641,
+            "song_author": [
+                "Brad Paisley",
+                "Alison Krauss"
+            ]
+        }
+    ],
+    "test_trial": [
+        {
+            "spotify_track_id": "2aAbjYIg2uHBm8sBFlGdBZ",
+            "song_title": "Main Titles",
+            "session_type": "other",
+            "id": 9438315834,
+            "song_author": [
+                "Charlie Clouser"
+            ]
+        },
+        {
+            "spotify_track_id": "1tgxx6W03cU7QLRdatrFO6",
+            "song_title": "Capricorno",
+            "session_type": "other",
+            "id": 1379694930,
+            "song_author": [
+                "Nesli"
+            ]
+        },
+        {
+            "spotify_track_id": "54D1j8pHEtYruwrUNA6VrN",
+            "song_title": "Gente Della Notte",
+            "session_type": "personal",
+            "id": 1127493407,
+            "song_author": [
+                "Jovanotti"
+            ]
+        },
+        {
+            "spotify_track_id": "6QgjcU0zLnzq5OrUoSZ3OK",
+            "song_title": "Feel It Still",
+            "session_type": "other",
+            "id": 8637362190,
+            "song_author": [
+                "Portugal. The Man"
+            ]
+        },
+        {
+            "spotify_track_id": "1L9m2l2lhXgQ3GwmmCx3OK",
+            "song_title": "Ma il cielo \u00e8 sempre pi\u00f9 blu",
+            "session_type": "other",
+            "id": 2750870219,
+            "song_author": [
+                "Rino Gaetano"
+            ]
+        },
+        {
+            "spotify_track_id": "7yF6VgvKBCv525LBBy5yLZ",
+            "song_title": "Sogna, Ragazzo, Sogna",
+            "session_type": "personal",
+            "id": 9167863016,
+            "song_author": [
+                "Roberto Vecchioni"
+            ]
+        },
+        {
+            "spotify_track_id": "7gQAFGUyHPcY0cQNPsjMf0",
+            "song_title": "Crying at the Discoteque - Radio Edit",
+            "session_type": "personal",
+            "id": 4905228358,
+            "song_author": [
+                "Alcazar"
+            ]
+        },
+        {
+            "spotify_track_id": "0AUvWawuP0ibk4SQ3sIZjk",
+            "song_title": "Daisy",
+            "session_type": "personal",
+            "id": 9066635327,
+            "song_author": [
+                "Ashnikko"
+            ]
+        },
+        {
+            "spotify_track_id": "6nek1Nin9q48AVZcWs9e9D",
+            "song_title": "Paradise",
+            "session_type": "personal",
+            "id": 5175393332,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "1ABG6ke9SdUK9YayVafbcX",
+            "song_title": "Le parole lontane",
+            "session_type": "personal",
+            "id": 4059796881,
+            "song_author": [
+                "M\u00e5neskin"
+            ]
+        },
+        {
+            "spotify_track_id": "6em2FO3WfksziNJbx5YWRM",
+            "song_title": "Innuendo - Remastered 2011",
+            "session_type": "personal",
+            "id": 3821743830,
+            "song_author": [
+                "Queen"
+            ]
+        },
+        {
+            "spotify_track_id": "4aebBr4JAihzJQR0CiIZJv",
+            "song_title": "Hello",
+            "session_type": "personal",
+            "id": 7648800193,
+            "song_author": [
+                "Adele"
+            ]
+        },
+        {
+            "spotify_track_id": "4KTvBpuyzikbShNQ2wl3NQ",
+            "song_title": "Peponi (Paradise) [Live]",
+            "session_type": "other",
+            "id": 8451089109,
+            "song_author": [
+                "The Piano Guys",
+                "Alex Boy\u00e9"
+            ]
+        },
+        {
+            "spotify_track_id": "3ZffCQKLFLUvYM59XKLbVm",
+            "song_title": "Wake Me up When September Ends",
+            "session_type": "other",
+            "id": 2939423194,
+            "song_author": [
+                "Green Day"
+            ]
+        },
+        {
+            "spotify_track_id": "6NnaFwRgdbXdPBsgcOXkwA",
+            "song_title": "Sword Art Online - Swordland - Main Theme",
+            "session_type": "personal",
+            "id": 6619506652,
+            "song_author": [
+                "Geek Music"
+            ]
+        },
+        {
+            "spotify_track_id": "4MwGG8wjLX5yokyTRQKhcH",
+            "song_title": "Ancora Un P\u00f2",
+            "session_type": "other",
+            "id": 2059943564,
+            "song_author": [
+                "Gemelli Diversi"
+            ]
+        },
+        {
+            "spotify_track_id": "0AUvWawuP0ibk4SQ3sIZjk",
+            "song_title": "Daisy",
+            "session_type": "other",
+            "id": 3823608521,
+            "song_author": [
+                "Ashnikko"
+            ]
+        },
+        {
+            "spotify_track_id": "1ZONyWRf5Fy7J1ssPRmR28",
+            "song_title": "Occupied Tears",
+            "session_type": "personal",
+            "id": 6233396936,
+            "song_author": [
+                "Serj Tankian"
+            ]
+        },
+        {
+            "spotify_track_id": "4UnC0RwEgaBXhif5XhtfaP",
+            "song_title": "Stupido Hotel",
+            "session_type": "personal",
+            "id": 1112028102,
+            "song_author": [
+                "Vasco Rossi"
+            ]
+        },
+        {
+            "spotify_track_id": "2YsfmsmRwWaFV7YLvTGFcm",
+            "song_title": "Portami via",
+            "session_type": "personal",
+            "id": 7949792387,
+            "song_author": [
+                "Fabrizio Moro"
+            ]
+        },
+        {
+            "spotify_track_id": "1vyV7cxMnu5BEEEANpJy7u",
+            "song_title": "Verdura",
+            "session_type": "personal",
+            "id": 6357436695,
+            "song_author": [
+                "Pinguini Tattici Nucleari"
+            ]
+        },
+        {
+            "spotify_track_id": "4hJSzUREpdDo8uhgEflbHr",
+            "song_title": "Sally",
+            "session_type": "other",
+            "id": 1152861661,
+            "song_author": [
+                "Vasco Rossi"
+            ]
+        },
+        {
+            "spotify_track_id": "19Rdet8mE1HvEoO4aMrQs3",
+            "song_title": "Il terzo fuochista",
+            "session_type": "personal",
+            "id": 5340068971,
+            "song_author": [
+                "Tosca"
+            ]
+        },
+        {
+            "spotify_track_id": "16RFzt9hlQ3OCPQf5AmhpU",
+            "song_title": "So What",
+            "session_type": "other",
+            "id": 8210863336,
+            "song_author": [
+                "Metallica"
+            ]
+        },
+        {
+            "spotify_track_id": "5RcZ84RmZ0TVTZQR3fWHoG",
+            "song_title": "All Your Friends",
+            "session_type": "other",
+            "id": 8857105311,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "75JFxkI2RXiU7L9VXzMkle",
+            "song_title": "The Scientist",
+            "session_type": "personal",
+            "id": 7028089757,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "4rOZRpsGz3eZxTYabaRLtn",
+            "song_title": "Lily's Theme",
+            "session_type": "personal",
+            "id": 7365459625,
+            "song_author": [
+                "Alexandre Desplat"
+            ]
+        },
+        {
+            "spotify_track_id": "31L9yLXSj6LpCFupyMV6CR",
+            "song_title": "Up&Up",
+            "session_type": "other",
+            "id": 1923372317,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "43xFiEIXdNCbvLrHnDlKSc",
+            "song_title": "Alla Mia Et\u00e0",
+            "session_type": "other",
+            "id": 6051716312,
+            "song_author": [
+                "Tiziano Ferro"
+            ]
+        },
+        {
+            "spotify_track_id": "38zwkK6TtTjIW9tpYBfZ3D",
+            "song_title": "Paradise",
+            "session_type": "personal",
+            "id": 3707282696,
+            "song_author": [
+                "George Ezra"
+            ]
+        },
+        {
+            "spotify_track_id": "16DMI2n8f0YzYj7GDRgoqA",
+            "song_title": "Guantanamera (Guajira)",
+            "session_type": "other",
+            "id": 4130731086,
+            "song_author": [
+                "Zucchero"
+            ]
+        },
+        {
+            "spotify_track_id": "6p5ohfzpFYEqqJMyMypCw0",
+            "song_title": "Denti macchiati",
+            "session_type": "other",
+            "id": 6390357756,
+            "song_author": [
+                "L'Elfo",
+                "Funkyman",
+                "MadMan"
+            ]
+        },
+        {
+            "spotify_track_id": "2MlOUXmcofMackX3bxfSwi",
+            "song_title": "Jerusalema (feat. Nomcebo Zikode)",
+            "session_type": "personal",
+            "id": 2769773895,
+            "song_author": [
+                "Master KG",
+                "Nomcebo Zikode"
+            ]
+        },
+        {
+            "spotify_track_id": "3Iqei9G7fo3g0s7cMMULo2",
+            "song_title": "Alleria - Remastered 2014",
+            "session_type": "personal",
+            "id": 4060729304,
+            "song_author": [
+                "Pino Daniele"
+            ]
+        },
+        {
+            "spotify_track_id": "6p5ohfzpFYEqqJMyMypCw0",
+            "song_title": "Denti macchiati",
+            "session_type": "other",
+            "id": 5596508477,
+            "song_author": [
+                "L'Elfo",
+                "Funkyman",
+                "MadMan"
+            ]
+        },
+        {
+            "spotify_track_id": "4UNrgyC7ycgZF0ZPIYY2tJ",
+            "song_title": "Symphony No. 7 in C Major, Op. 105: Adagio -",
+            "session_type": "other",
+            "id": 8363903321,
+            "song_author": [
+                "Jean Sibelius",
+                "Boston Symphony Orchestra",
+                "Sir Colin Davis"
+            ]
+        },
+        {
+            "spotify_track_id": "2KxUmv2GwmVLYjuUiaTKiR",
+            "song_title": "Amo soltanto te",
+            "session_type": "personal",
+            "id": 6126441645,
+            "song_author": [
+                "Andrea Bocelli",
+                "Ed Sheeran"
+            ]
+        },
+        {
+            "spotify_track_id": "55WIafaNg5WMRLMEMaIf4e",
+            "song_title": "Rewind",
+            "session_type": "personal",
+            "id": 1077405927,
+            "song_author": [
+                "Vasco Rossi"
+            ]
+        },
+        {
+            "spotify_track_id": "37ebs6hDGOWK8SDAB2kZG5",
+            "song_title": "Friction",
+            "session_type": "other",
+            "id": 7485341900,
+            "song_author": [
+                "Imagine Dragons"
+            ]
+        },
+        {
+            "spotify_track_id": "7D64ejn2d3g6QaahkYdKXH",
+            "song_title": "Tranquilla!",
+            "session_type": "other",
+            "id": 2535069543,
+            "song_author": [
+                "Fabrizio Vidale"
+            ]
+        },
+        {
+            "spotify_track_id": "1EzrEOXmMH3G43AXT1y7pA",
+            "song_title": "I'm Yours",
+            "session_type": "other",
+            "id": 8558147580,
+            "song_author": [
+                "Jason Mraz"
+            ]
+        },
+        {
+            "spotify_track_id": "4z9c3rFjxtiG87y2ZpnoTC",
+            "song_title": "Il senso di ogni cosa - 2020 Version",
+            "session_type": "personal",
+            "id": 9197978715,
+            "song_author": [
+                "Fabrizio Moro"
+            ]
+        },
+        {
+            "spotify_track_id": "6nfeow8q4RsNsLYWZSbiSv",
+            "song_title": "Ragazza Magica",
+            "session_type": "personal",
+            "id": 5727124268,
+            "song_author": [
+                "Jovanotti"
+            ]
+        },
+        {
+            "spotify_track_id": "5gTuH5Jl8PVUitsFzFslWu",
+            "song_title": "Certe notti",
+            "session_type": "other",
+            "id": 2717131942,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "1fdCjH8Y8n9j7lFr7tLbfm",
+            "song_title": "Per dimenticare",
+            "session_type": "other",
+            "id": 8763148865,
+            "song_author": [
+                "Zero Assoluto"
+            ]
+        },
+        {
+            "spotify_track_id": "3pkXsGn1N4DmqB8VqBvlLL",
+            "song_title": "Pr\u00e9lude in D-Flat Major, Op. 28, No. 15 \"Raindrop\"",
+            "session_type": "personal",
+            "id": 6720425393,
+            "song_author": [
+                "Fr\u00e9d\u00e9ric Chopin",
+                "Vladimir Horowitz"
+            ]
+        },
+        {
+            "spotify_track_id": "25qfFpoGhk9Njgu5nl36sS",
+            "song_title": "Fall In Line (feat. Demi Lovato)",
+            "session_type": "personal",
+            "id": 2472607918,
+            "song_author": [
+                "Christina Aguilera",
+                "Demi Lovato"
+            ]
+        },
+        {
+            "spotify_track_id": "0RX9BDALuz1tn5yc2LoimN",
+            "song_title": "Spirito Nel Buio",
+            "session_type": "other",
+            "id": 5387739108,
+            "song_author": [
+                "Zucchero"
+            ]
+        },
+        {
+            "spotify_track_id": "0WoY5ol6DYtT9WxvDU92et",
+            "song_title": "Una Come Te",
+            "session_type": "other",
+            "id": 5828700664,
+            "song_author": [
+                "Cesare Cremonini"
+            ]
+        },
+        {
+            "spotify_track_id": "11rhg90RuRczpb2LVxQQrh",
+            "song_title": "Quella che non sei",
+            "session_type": "personal",
+            "id": 5126353753,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "1EzrEOXmMH3G43AXT1y7pA",
+            "song_title": "I'm Yours",
+            "session_type": "personal",
+            "id": 1674695848,
+            "song_author": [
+                "Jason Mraz"
+            ]
+        },
+        {
+            "spotify_track_id": "7nHZEthoknoT574qzUWzOk",
+            "song_title": "Un amico come me",
+            "session_type": "personal",
+            "id": 1168755419,
+            "song_author": [
+                "Marco Manca"
+            ]
+        },
+        {
+            "spotify_track_id": "4szQkW1CDHqbRZGltXJdd3",
+            "song_title": "Soldi",
+            "session_type": "personal",
+            "id": 4656101158,
+            "song_author": [
+                "Mahmood"
+            ]
+        },
+        {
+            "spotify_track_id": "550rQQCGkrTzvp4SfpOPzx",
+            "song_title": "Hallelujah",
+            "session_type": "personal",
+            "id": 6679898207,
+            "song_author": [
+                "Pentatonix"
+            ]
+        },
+        {
+            "spotify_track_id": "0jqK7sGTLsHPkQrrcrGuKD",
+            "song_title": "Still Waiting",
+            "session_type": "other",
+            "id": 7260817658,
+            "song_author": [
+                "Sum 41"
+            ]
+        },
+        {
+            "spotify_track_id": "0VMh6D6ryDKoLFmd6EuqbU",
+            "song_title": "Tu non mi basti mai",
+            "session_type": "personal",
+            "id": 8161281876,
+            "song_author": [
+                "Lucio Dalla"
+            ]
+        },
+        {
+            "spotify_track_id": "0nJW01T7XtvILxQgC5J7Wh",
+            "song_title": "When I Was Your Man",
+            "session_type": "other",
+            "id": 2175106937,
+            "song_author": [
+                "Bruno Mars"
+            ]
+        },
+        {
+            "spotify_track_id": "0pVSpAnjpnqywmPZnOISiv",
+            "song_title": "A Te",
+            "session_type": "other",
+            "id": 6966842691,
+            "song_author": [
+                "Jovanotti"
+            ]
+        },
+        {
+            "spotify_track_id": "5aMhS1DAoy6Yr2TbTgT8KZ",
+            "song_title": "Tu non esisti (feat. Fabrizio Moro)",
+            "session_type": "personal",
+            "id": 1202001823,
+            "song_author": [
+                "Marco Masini",
+                "Fabrizio Moro"
+            ]
+        },
+        {
+            "spotify_track_id": "6ybViy2qrO9sIi41EgRJgx",
+            "song_title": "Don't Know Why",
+            "session_type": "personal",
+            "id": 2452464152,
+            "song_author": [
+                "Norah Jones"
+            ]
+        },
+        {
+            "spotify_track_id": "1hbpbKi01tEY2abI7MDgBP",
+            "song_title": "We Are Legion",
+            "session_type": "personal",
+            "id": 2170777533,
+            "song_author": [
+                "Nox Arcana"
+            ]
+        },
+        {
+            "spotify_track_id": "6E7p8AS6KZmtL97yyqbPMc",
+            "song_title": "L'ultimo grido della notte",
+            "session_type": "personal",
+            "id": 3412258127,
+            "song_author": [
+                "Thegiornalisti"
+            ]
+        },
+        {
+            "spotify_track_id": "2m2ckMc8CrRHzmUtGeGk8I",
+            "song_title": "Baciami Ancora",
+            "session_type": "personal",
+            "id": 8166469410,
+            "song_author": [
+                "Jovanotti"
+            ]
+        },
+        {
+            "spotify_track_id": "6aWJOPC5gpjTpRiyvrFOQm",
+            "song_title": "Santa Fe",
+            "session_type": "other",
+            "id": 6729372099,
+            "song_author": [
+                "Jeremy Jordan"
+            ]
+        },
+        {
+            "spotify_track_id": "0CuFdqhjyrqhxnQj3Xm3lB",
+            "song_title": "Vuoto a perdere",
+            "session_type": "personal",
+            "id": 8413724562,
+            "song_author": [
+                "Noemi"
+            ]
+        },
+        {
+            "spotify_track_id": "6CJLNAYdtqLRa045ro4umT",
+            "song_title": "Sogno d'amore",
+            "session_type": "other",
+            "id": 3863939148,
+            "song_author": [
+                "Franz Liszt",
+                "Giovanni Cassani",
+                "Accademia Musicale"
+            ]
+        },
+        {
+            "spotify_track_id": "5SqUFv3nQsNbxohfSWb3iZ",
+            "song_title": "\u00c8 festa",
+            "session_type": "other",
+            "id": 1916408790,
+            "song_author": [
+                "Premiata Forneria Marconi"
+            ]
+        },
+        {
+            "spotify_track_id": "3MjUtNVVq3C8Fn0MP3zhXa",
+            "song_title": "...Baby One More Time",
+            "session_type": "personal",
+            "id": 5501766863,
+            "song_author": [
+                "Britney Spears"
+            ]
+        },
+        {
+            "spotify_track_id": "7Muqwx50J3f9n8wIvszq8l",
+            "song_title": "Our Heritage",
+            "session_type": "other",
+            "id": 9055593891,
+            "song_author": [
+                "Armand Amar",
+                "G\u00fclay Hacer Toruk",
+                "Herv\u00e9 Teboul",
+                "Julien Carton"
+            ]
+        },
+        {
+            "spotify_track_id": "1qU8pLmJNC0V2aSOStjWcX",
+            "song_title": "A Thousand Years",
+            "session_type": "other",
+            "id": 6696183035,
+            "song_author": [
+                "Christina Perri"
+            ]
+        },
+        {
+            "spotify_track_id": "16DMI2n8f0YzYj7GDRgoqA",
+            "song_title": "Guantanamera (Guajira)",
+            "session_type": "other",
+            "id": 7113888353,
+            "song_author": [
+                "Zucchero"
+            ]
+        },
+        {
+            "spotify_track_id": "0pqnGHJpmpxLKifKRmU6WP",
+            "song_title": "Believer",
+            "session_type": "personal",
+            "id": 2642123678,
+            "song_author": [
+                "Imagine Dragons"
+            ]
+        },
+        {
+            "spotify_track_id": "6XJGpirOP4Bgurcvkdanxb",
+            "song_title": "American Beauty",
+            "session_type": "personal",
+            "id": 1378746257,
+            "song_author": [
+                "Thomas Newman"
+            ]
+        },
+        {
+            "spotify_track_id": "5p6me2mwQrGfH30eExHn6v",
+            "song_title": "Take Five",
+            "session_type": "personal",
+            "id": 4493475823,
+            "song_author": [
+                "Dave Brubeck"
+            ]
+        },
+        {
+            "spotify_track_id": "6Vw7SyOg1BcWvGpyPzWgEa",
+            "song_title": "Ricordami",
+            "session_type": "personal",
+            "id": 1323188128,
+            "song_author": [
+                "Tommaso Paradiso"
+            ]
+        },
+        {
+            "spotify_track_id": "7mfvOqsvzZaUl7sfbcNk4E",
+            "song_title": "Ameno",
+            "session_type": "personal",
+            "id": 4857999604,
+            "song_author": [
+                "ERA"
+            ]
+        },
+        {
+            "spotify_track_id": "1wx5hbovwZoPeTUom8cuQ4",
+            "song_title": "Urlando contro il cielo",
+            "session_type": "other",
+            "id": 6064904333,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "3B3FUgKPpSTpeHN5ubVQ9W",
+            "song_title": "Vaffanculo",
+            "session_type": "other",
+            "id": 9184011242,
+            "song_author": [
+                "Marco Masini"
+            ]
+        },
+        {
+            "spotify_track_id": "58yi8yuPP5tF1jtmLRUZbe",
+            "song_title": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
+            "session_type": "personal",
+            "id": 5954216692,
+            "song_author": [
+                "Yann Tiersen"
+            ]
+        },
+        {
+            "spotify_track_id": "2IZZqH4K02UIYg5EohpNHF",
+            "song_title": "Zombie",
+            "session_type": "other",
+            "id": 2788548965,
+            "song_author": [
+                "The Cranberries"
+            ]
+        },
+        {
+            "spotify_track_id": "2aAbjYIg2uHBm8sBFlGdBZ",
+            "song_title": "Main Titles",
+            "session_type": "personal",
+            "id": 1593088675,
+            "song_author": [
+                "Charlie Clouser"
+            ]
+        },
+        {
+            "spotify_track_id": "0pqnGHJpmpxLKifKRmU6WP",
+            "song_title": "Believer",
+            "session_type": "personal",
+            "id": 6491991319,
+            "song_author": [
+                "Imagine Dragons"
+            ]
+        },
+        {
+            "spotify_track_id": "0yLEo7X7tJnyzEIITgexV7",
+            "song_title": "Napule \u00c8",
+            "session_type": "other",
+            "id": 4321198787,
+            "song_author": [
+                "Pino Daniele"
+            ]
+        },
+        {
+            "spotify_track_id": "24A3U2qgQ9wueZofBYGQAW",
+            "song_title": "Dentro me",
+            "session_type": "other",
+            "id": 3705954339,
+            "song_author": [
+                "J-AX"
+            ]
+        },
+        {
+            "spotify_track_id": "0HpKuz1HfXxRzNnUqfwzgF",
+            "song_title": "Piccola stella senza cielo",
+            "session_type": "other",
+            "id": 5637954936,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "4UnC0RwEgaBXhif5XhtfaP",
+            "song_title": "Stupido Hotel",
+            "session_type": "other",
+            "id": 9071099544,
+            "song_author": [
+                "Vasco Rossi"
+            ]
+        },
+        {
+            "spotify_track_id": "6P7CGwIMruLWna0QvN14DB",
+            "song_title": "Fotoricordo",
+            "session_type": "other",
+            "id": 4432299675,
+            "song_author": [
+                "Gemelli Diversi"
+            ]
+        },
+        {
+            "spotify_track_id": "4Re9ss7a60eXUDiSyUMQIn",
+            "song_title": "Orobroy",
+            "session_type": "other",
+            "id": 2378209201,
+            "song_author": [
+                "Dorantes"
+            ]
+        },
+        {
+            "spotify_track_id": "7FlHNJT4TC120CDvFOHzei",
+            "song_title": "Rewrite The Stars",
+            "session_type": "other",
+            "id": 4257849630,
+            "song_author": [
+                "James Arthur",
+                "Anne-Marie"
+            ]
+        },
+        {
+            "spotify_track_id": "5a0XvkKfdiUpBDat4Y4t9Y",
+            "song_title": "Finch\u00e9 Ti Va",
+            "session_type": "other",
+            "id": 2707398830,
+            "song_author": [
+                "Tiromancino"
+            ]
+        },
+        {
+            "spotify_track_id": "7wTncdYglIWFBf8nRrUe8S",
+            "song_title": "Ricordami (Lullaby)",
+            "session_type": "other",
+            "id": 8902700848,
+            "song_author": [
+                "Emiliano Coltorti",
+                "Charlotte Infussi D'Amico"
+            ]
+        },
+        {
+            "spotify_track_id": "6kfmlwQ4OVb0zCX23xVmHC",
+            "song_title": "Mai dire mai",
+            "session_type": "personal",
+            "id": 1111830184,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "6nek1Nin9q48AVZcWs9e9D",
+            "song_title": "Paradise",
+            "session_type": "other",
+            "id": 2822770293,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "1tgxx6W03cU7QLRdatrFO6",
+            "song_title": "Capricorno",
+            "session_type": "other",
+            "id": 7535024559,
+            "song_author": [
+                "Nesli"
+            ]
+        },
+        {
+            "spotify_track_id": "1yJzoX4xPsACzVxUarXRKa",
+            "song_title": "Misty Mountains",
+            "session_type": "other",
+            "id": 6253258260,
+            "song_author": [
+                "Richard Armitage",
+                "The Dwarf Cast"
+            ]
+        },
+        {
+            "spotify_track_id": "69QKhs7PeaZRdEOa14VAtq",
+            "song_title": "Sbatti",
+            "session_type": "other",
+            "id": 9450676584,
+            "song_author": [
+                "Gazzelle"
+            ]
+        },
+        {
+            "spotify_track_id": "1yJzoX4xPsACzVxUarXRKa",
+            "song_title": "Misty Mountains",
+            "session_type": "personal",
+            "id": 5678308149,
+            "song_author": [
+                "Richard Armitage",
+                "The Dwarf Cast"
+            ]
+        },
+        {
+            "spotify_track_id": "2xqyJa4BRzrEM4HQVgeazW",
+            "song_title": "MA IL CIELO E' SEMPRE BLU (ITALIANSTARS4LIFE)",
+            "session_type": "other",
+            "id": 4211963059,
+            "song_author": [
+                "ITALIAN ALLSTARS 4 LIFE"
+            ]
+        },
+        {
+            "spotify_track_id": "0lP4HYLmvowOKdsQ7CVkuq",
+            "song_title": "The Kill",
+            "session_type": "other",
+            "id": 5496979379,
+            "song_author": [
+                "Thirty Seconds To Mars"
+            ]
+        },
+        {
+            "spotify_track_id": "5MwXvqtVQN0cqzK4xbWC1K",
+            "song_title": "Il terzo fuochista",
+            "session_type": "personal",
+            "id": 2436092720,
+            "song_author": [
+                "Tosca"
+            ]
+        },
+        {
+            "spotify_track_id": "0tvsSYHf3ybHLajuAHwMXB",
+            "song_title": "Concerto In G",
+            "session_type": "personal",
+            "id": 9002170996,
+            "song_author": [
+                "Roger Neill"
+            ]
+        },
+        {
+            "spotify_track_id": "1jlG3KJ3gdYmhfuySFfpO1",
+            "song_title": "I'm with You",
+            "session_type": "personal",
+            "id": 7661143237,
+            "song_author": [
+                "Avril Lavigne"
+            ]
+        },
+        {
+            "spotify_track_id": "5OaBhC8NjdqDhHF9I6r9lS",
+            "song_title": "Fai rumore",
+            "session_type": "personal",
+            "id": 7689242047,
+            "song_author": [
+                "Diodato"
+            ]
+        },
+        {
+            "spotify_track_id": "31VOknKjFrEX47bZXzqcoF",
+            "song_title": "Next To Me",
+            "session_type": "other",
+            "id": 7857065886,
+            "song_author": [
+                "Imagine Dragons"
+            ]
+        }
+    ],
+    "test_subject": [
+        {
+            "spotify_track_id": "0FNRyMufs8Ox03TtaoyCjH",
+            "song_title": "Se Piovesse Il Tuo Nome",
+            "session_type": "other",
+            "id": 4959840661,
+            "song_author": [
+                "Elisa"
+            ]
+        },
+        {
+            "spotify_track_id": "24A3U2qgQ9wueZofBYGQAW",
+            "song_title": "Dentro me",
+            "session_type": "personal",
+            "id": 3269149840,
+            "song_author": [
+                "J-AX"
+            ]
+        },
+        {
+            "spotify_track_id": "1JSIWsJfxOji0FrxFcxdCK",
+            "song_title": "The Good, The Bad And The Ugly - Main Title",
+            "session_type": "personal",
+            "id": 7429504575,
+            "song_author": [
+                "Ennio Morricone"
+            ]
+        },
+        {
+            "spotify_track_id": "37ebs6hDGOWK8SDAB2kZG5",
+            "song_title": "Friction",
+            "session_type": "other",
+            "id": 8730282409,
+            "song_author": [
+                "Imagine Dragons"
+            ]
+        },
+        {
+            "spotify_track_id": "17S4O3SIX56VNQNleSJuMi",
+            "song_title": "Andr\u00e0 Tutto Bene",
+            "session_type": "personal",
+            "id": 5870675574,
+            "song_author": [
+                "Nesli"
+            ]
+        },
+        {
+            "spotify_track_id": "0us5QptWMIWnMVpMAcpX6t",
+            "song_title": "Al di l\u00e0 delle stelle",
+            "session_type": "personal",
+            "id": 7946610829,
+            "song_author": [
+                "Gemelli Diversi"
+            ]
+        },
+        {
+            "spotify_track_id": "5VVwwfK6Cp9IydkhKfJUEq",
+            "song_title": "You Give Love A Bad Name",
+            "session_type": "personal",
+            "id": 1407823599,
+            "song_author": [
+                "Bon Jovi"
+            ]
+        },
+        {
+            "spotify_track_id": "2igwFfvr1OAGX9SKDCPBwO",
+            "song_title": "Empire State Of Mind",
+            "session_type": "other",
+            "id": 9721777723,
+            "song_author": [
+                "JAY-Z",
+                "Alicia Keys"
+            ]
+        },
+        {
+            "spotify_track_id": "16RFzt9hlQ3OCPQf5AmhpU",
+            "song_title": "So What",
+            "session_type": "other",
+            "id": 5221084615,
+            "song_author": [
+                "Metallica"
+            ]
+        },
+        {
+            "spotify_track_id": "0bmb8jg6ljmt8qBmIsMNvL",
+            "song_title": "Dumbledore's Farewell",
+            "session_type": "personal",
+            "id": 3007821855,
+            "song_author": [
+                "Nicholas Hooper"
+            ]
+        },
+        {
+            "spotify_track_id": "2N9XhnyDTq97R2UIyAKOKt",
+            "song_title": "Tristezza",
+            "session_type": "personal",
+            "id": 4626978905,
+            "song_author": [
+                "Elio e le Storie Tese"
+            ]
+        },
+        {
+            "spotify_track_id": "26uW4ygIDjuB91LEsyJrl7",
+            "song_title": "Con te partir\u00f2",
+            "session_type": "personal",
+            "id": 5446762326,
+            "song_author": [
+                "Andrea Bocelli"
+            ]
+        },
+        {
+            "spotify_track_id": "6jBUP2KCe821yqf1hiBqPR",
+            "song_title": "Broken Strings",
+            "session_type": "other",
+            "id": 7421937820,
+            "song_author": [
+                "James Morrison",
+                "Nelly Furtado"
+            ]
+        },
+        {
+            "spotify_track_id": "44K47TeSU83WUJAcLYbRHT",
+            "song_title": "Eccoti (La storia pi\u00f9 incredibile che conosco)",
+            "session_type": "other",
+            "id": 3758483713,
+            "song_author": [
+                "Max Pezzali"
+            ]
+        },
+        {
+            "spotify_track_id": "5gS4Ns8pa699yYGdQglivq",
+            "song_title": "Quello che comunemente noi chiamiamo amore - Radio Edit",
+            "session_type": "personal",
+            "id": 7821299227,
+            "song_author": [
+                "Max Pezzali"
+            ]
+        },
+        {
+            "spotify_track_id": "1UfCIFhRr8Bci9LUJ68dvp",
+            "song_title": "Weight Of The World",
+            "session_type": "personal",
+            "id": 1447435450,
+            "song_author": [
+                "Evanescence"
+            ]
+        },
+        {
+            "spotify_track_id": "0Yncd2CxjjlWLrIukzsk2M",
+            "song_title": "Voglio Vederti Danzare - Remastered",
+            "session_type": "personal",
+            "id": 3699269354,
+            "song_author": [
+                "Franco Battiato"
+            ]
+        },
+        {
+            "spotify_track_id": "0pVSpAnjpnqywmPZnOISiv",
+            "song_title": "A Te",
+            "session_type": "other",
+            "id": 4941712455,
+            "song_author": [
+                "Jovanotti"
+            ]
+        },
+        {
+            "spotify_track_id": "60a0Rd6pjrkxjPbaKzXjfq",
+            "song_title": "In the End",
+            "session_type": "personal",
+            "id": 4179312500,
+            "song_author": [
+                "Linkin Park"
+            ]
+        },
+        {
+            "spotify_track_id": "5YdEQiynLpBRBk8CLEd9sG",
+            "song_title": "Abbi cura di me",
+            "session_type": "other",
+            "id": 9093421982,
+            "song_author": [
+                "Simone Cristicchi"
+            ]
+        },
+        {
+            "spotify_track_id": "0FDzzruyVECATHXKHFs9eJ",
+            "song_title": "A Sky Full of Stars",
+            "session_type": "personal",
+            "id": 2027650951,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "2jMcIItGJJs0SXSWVk0oPw",
+            "song_title": "We Are Worthy of Each Other",
+            "session_type": "personal",
+            "id": 3951650140,
+            "song_author": [
+                "James Newton Howard"
+            ]
+        },
+        {
+            "spotify_track_id": "6zaqjLbBdfkdHUWtQzvrK2",
+            "song_title": "Bella stronza",
+            "session_type": "personal",
+            "id": 5066562171,
+            "song_author": [
+                "Marco Masini"
+            ]
+        },
+        {
+            "spotify_track_id": "5H1UICr8EH9wtEmTZ4RiLp",
+            "song_title": "Siamo chi siamo - Live",
+            "session_type": "personal",
+            "id": 6609203145,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "4Y3WqmBWmG23thvU9xEhMv",
+            "song_title": "Easy",
+            "session_type": "personal",
+            "id": 5214744899,
+            "song_author": [
+                "Faith No More"
+            ]
+        },
+        {
+            "spotify_track_id": "3yGyWqmw9eCQPdJJ6iJLWs",
+            "song_title": "4/3/1943",
+            "session_type": "other",
+            "id": 7661789985,
+            "song_author": [
+                "Lucio Dalla"
+            ]
+        },
+        {
+            "spotify_track_id": "6t4XT3FQGdB7EjqvfAahNx",
+            "song_title": "Chiaro Di Luna",
+            "session_type": "other",
+            "id": 1583345949,
+            "song_author": [
+                "Jovanotti"
+            ]
+        },
+        {
+            "spotify_track_id": "3E1FgPTXX203rgBTD5nlKF",
+            "song_title": "Il bacio di Klimt",
+            "session_type": "other",
+            "id": 1605739339,
+            "song_author": [
+                "Emanuele Aloia"
+            ]
+        },
+        {
+            "spotify_track_id": "1Y5B1vvFDia8MtyM16UgnN",
+            "song_title": "Ribbon In The Sky",
+            "session_type": "other",
+            "id": 6696112468,
+            "song_author": [
+                "Stevie Wonder"
+            ]
+        },
+        {
+            "spotify_track_id": "77yuzxCS3csrgTPSW0pvyk",
+            "song_title": "O",
+            "session_type": "personal",
+            "id": 1541054610,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "7gIio639yXV6PGxK89de5F",
+            "song_title": "Il cielo guarda te",
+            "session_type": "personal",
+            "id": 7910092160,
+            "song_author": [
+                "Fred De Palma"
+            ]
+        },
+        {
+            "spotify_track_id": "0jJtnvfeVFwBMYrt3clXZf",
+            "song_title": "Fairy Tail Main Theme - Piano Ver.",
+            "session_type": "personal",
+            "id": 7707189990,
+            "song_author": [
+                "Yasuharu Takanashi"
+            ]
+        },
+        {
+            "spotify_track_id": "6CJLNAYdtqLRa045ro4umT",
+            "song_title": "Sogno d'amore",
+            "session_type": "personal",
+            "id": 8394615364,
+            "song_author": [
+                "Franz Liszt",
+                "Giovanni Cassani",
+                "Accademia Musicale"
+            ]
+        },
+        {
+            "spotify_track_id": "7wMq5n8mYSKlQIGECKUgTX",
+            "song_title": "Hall of Fame (feat. will.i.am)",
+            "session_type": "other",
+            "id": 3120742927,
+            "song_author": [
+                "The Script",
+                "will.i.am"
+            ]
+        },
+        {
+            "spotify_track_id": "4qFLzh0BSi0KpPYbTWHENQ",
+            "song_title": "Partir\u00f2",
+            "session_type": "other",
+            "id": 4809662641,
+            "song_author": [
+                "Nesli"
+            ]
+        },
+        {
+            "spotify_track_id": "2nW54dqr6liCGstp71S4pB",
+            "song_title": "Il Conforto",
+            "session_type": "other",
+            "id": 9073628512,
+            "song_author": [
+                "Tiziano Ferro",
+                "Carmen Consoli"
+            ]
+        },
+        {
+            "spotify_track_id": "3UygY7qW2cvG9Llkay6i1i",
+            "song_title": "Going Under",
+            "session_type": "personal",
+            "id": 5132714129,
+            "song_author": [
+                "Evanescence"
+            ]
+        },
+        {
+            "spotify_track_id": "1hbpbKi01tEY2abI7MDgBP",
+            "song_title": "We Are Legion",
+            "session_type": "other",
+            "id": 3142815483,
+            "song_author": [
+                "Nox Arcana"
+            ]
+        },
+        {
+            "spotify_track_id": "3sc9YIcDSPCXsQ0zzX3JLW",
+            "song_title": "La Cura",
+            "session_type": "personal",
+            "id": 3370249636,
+            "song_author": [
+                "Franco Battiato"
+            ]
+        },
+        {
+            "spotify_track_id": "4Pye9CDPOXRjeWhd2YsYCM",
+            "song_title": "Somewhere in My Memory (From \"Home Alone\")",
+            "session_type": "personal",
+            "id": 4192535700,
+            "song_author": [
+                "Robert Ziegler"
+            ]
+        },
+        {
+            "spotify_track_id": "3lhFm6HKnGJoLfYbmWntfm",
+            "song_title": "Basta Cosi'",
+            "session_type": "other",
+            "id": 7150605187,
+            "song_author": [
+                "Negramaro",
+                "Elisa"
+            ]
+        },
+        {
+            "spotify_track_id": "15tHagkk8z306XkyOHqiip",
+            "song_title": "I'll Be There for You - Theme From \"Friends\"",
+            "session_type": "other",
+            "id": 4686496903,
+            "song_author": [
+                "The Rembrandts"
+            ]
+        },
+        {
+            "spotify_track_id": "2lCT4RVgR0bIYR0JW7Mcqx",
+            "song_title": "# fuori c'\u00e8 il sole",
+            "session_type": "other",
+            "id": 3402909314,
+            "song_author": [
+                "Lorenzo Fragola"
+            ]
+        },
+        {
+            "spotify_track_id": "4mfQ1dT9zhaDhVpb4GbTOy",
+            "song_title": "Requiem in D Minor, K. 626: 2. Kyrie - Live",
+            "session_type": "personal",
+            "id": 1195691703,
+            "song_author": [
+                "Wolfgang Amadeus Mozart",
+                "Berliner Philharmoniker",
+                "Claudio Abbado",
+                "Swedish Radio Choir",
+                "Kay Johannsen"
+            ]
+        },
+        {
+            "spotify_track_id": "0pVfvpMSFsabyuydMihDi1",
+            "song_title": "Ho amato tutto",
+            "session_type": "other",
+            "id": 6173286434,
+            "song_author": [
+                "Tosca"
+            ]
+        },
+        {
+            "spotify_track_id": "0yLEo7X7tJnyzEIITgexV7",
+            "song_title": "Napule \u00c8",
+            "session_type": "personal",
+            "id": 4480859092,
+            "song_author": [
+                "Pino Daniele"
+            ]
+        },
+        {
+            "spotify_track_id": "5OaBhC8NjdqDhHF9I6r9lS",
+            "song_title": "Fai rumore",
+            "session_type": "other",
+            "id": 6564662933,
+            "song_author": [
+                "Diodato"
+            ]
+        },
+        {
+            "spotify_track_id": "3x3xrjmOy3hu9ky8OFjg7g",
+            "song_title": "Tutta la vita",
+            "session_type": "other",
+            "id": 5531414659,
+            "song_author": [
+                "Gazzelle"
+            ]
+        },
+        {
+            "spotify_track_id": "1c3GkbZBnyrQ1cm4TGHFrK",
+            "song_title": "Canon in D",
+            "session_type": "personal",
+            "id": 5206103190,
+            "song_author": [
+                "Johann Pachelbel",
+                "Kanon Orchestre de Chambre",
+                "Jean-Fran\u00e7ois Paillard"
+            ]
+        },
+        {
+            "spotify_track_id": "4CQnIoccCBtsiBeb1jBFiZ",
+            "song_title": "Danza del Osos",
+            "session_type": "personal",
+            "id": 1866983022,
+            "song_author": [
+                "Danzante Banda Celta"
+            ]
+        },
+        {
+            "spotify_track_id": "0KM2y796j63t5RHhvRUxld",
+            "song_title": "Relax, Take It Easy",
+            "session_type": "other",
+            "id": 9266675179,
+            "song_author": [
+                "MIKA"
+            ]
+        },
+        {
+            "spotify_track_id": "2EzaNI2kE2AoBfJ8mRZLSJ",
+            "song_title": "Animal (Remastered)",
+            "session_type": "personal",
+            "id": 9080445164,
+            "song_author": [
+                "Pearl Jam"
+            ]
+        },
+        {
+            "spotify_track_id": "0i4mLwfyxnSSgF6hwIkU2L",
+            "song_title": "Il pescatore",
+            "session_type": "personal",
+            "id": 7363341166,
+            "song_author": [
+                "Fabrizio De Andr\u00e9"
+            ]
+        },
+        {
+            "spotify_track_id": "11rhg90RuRczpb2LVxQQrh",
+            "song_title": "Quella che non sei",
+            "session_type": "other",
+            "id": 4689560242,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "1dV1vTYR9v0RESn0wh8FI2",
+            "song_title": "La casa azul",
+            "session_type": "other",
+            "id": 4334201148,
+            "song_author": [
+                "Marco Mengoni"
+            ]
+        },
+        {
+            "spotify_track_id": "7fyEfBIDICrCURELJm7HYE",
+            "song_title": "Ho messo via - Live",
+            "session_type": "personal",
+            "id": 3034319721,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "5qalQH6rZ4An1GmCmuCsWO",
+            "song_title": "Piazza grande",
+            "session_type": "other",
+            "id": 3697369145,
+            "song_author": [
+                "Tosca",
+                "S\u00edlvia P\u00e9rez Cruz",
+                "PARKAH",
+                "DURZO"
+            ]
+        },
+        {
+            "spotify_track_id": "3B3FUgKPpSTpeHN5ubVQ9W",
+            "song_title": "Vaffanculo",
+            "session_type": "other",
+            "id": 6721623160,
+            "song_author": [
+                "Marco Masini"
+            ]
+        },
+        {
+            "spotify_track_id": "0R8P9KfGJCDULmlEoBagcO",
+            "song_title": "Trouble",
+            "session_type": "personal",
+            "id": 3916513312,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "5MwXvqtVQN0cqzK4xbWC1K",
+            "song_title": "Il terzo fuochista",
+            "session_type": "other",
+            "id": 6344002165,
+            "song_author": [
+                "Tosca"
+            ]
+        },
+        {
+            "spotify_track_id": "2YsfmsmRwWaFV7YLvTGFcm",
+            "song_title": "Portami via",
+            "session_type": "personal",
+            "id": 9028283194,
+            "song_author": [
+                "Fabrizio Moro"
+            ]
+        },
+        {
+            "spotify_track_id": "67lQciM42Sl55f7tcUvXLy",
+            "song_title": "November",
+            "session_type": "personal",
+            "id": 3741874951,
+            "song_author": [
+                "Babeheaven"
+            ]
+        },
+        {
+            "spotify_track_id": "01p5u3cVOjYE7S8QoMXBdq",
+            "song_title": "Me la caver\u00f2",
+            "session_type": "other",
+            "id": 6516482401,
+            "song_author": [
+                "Max Pezzali",
+                "883"
+            ]
+        },
+        {
+            "spotify_track_id": "11IXRdEjiH0KL8nh4G1j7d",
+            "song_title": "Now We Are Free",
+            "session_type": "other",
+            "id": 4937863708,
+            "song_author": [
+                "Lisa Gerrard",
+                "Klaus Badelt",
+                "Hans Zimmer",
+                "Gavin Greenaway",
+                "The Lyndhurst Orchestra"
+            ]
+        },
+        {
+            "spotify_track_id": "17yICOyyHoseeZlUHOPWE5",
+            "song_title": "Equivale All'Immenso",
+            "session_type": "personal",
+            "id": 2936368485,
+            "song_author": [
+                "Nesli"
+            ]
+        },
+        {
+            "spotify_track_id": "1n3F8rwqJWzlcRB627y0i9",
+            "song_title": "I'm Outta Love",
+            "session_type": "personal",
+            "id": 6801649451,
+            "song_author": [
+                "Anastacia"
+            ]
+        },
+        {
+            "spotify_track_id": "0iOHkI1AyDXfDeoXEFaP2e",
+            "song_title": "L'amore \u00e8",
+            "session_type": "other",
+            "id": 8107211420,
+            "song_author": [
+                "Enrico Nigiotti"
+            ]
+        },
+        {
+            "spotify_track_id": "5tE3p4vIwoqUZLkKF2PNeB",
+            "song_title": "Interstellar- Main Theme",
+            "session_type": "personal",
+            "id": 1593465143,
+            "song_author": [
+                "Geek Music"
+            ]
+        },
+        {
+            "spotify_track_id": "3VZfK5GR6tN3WH3WsBNMYq",
+            "song_title": "VIENIMI (a ballare)",
+            "session_type": "other",
+            "id": 1069468828,
+            "song_author": [
+                "AIELLO"
+            ]
+        },
+        {
+            "spotify_track_id": "3HulMbcorYC5RCle6xSSF3",
+            "song_title": "Il testamento di Tito",
+            "session_type": "other",
+            "id": 5923201791,
+            "song_author": [
+                "Fabrizio De Andr\u00e9"
+            ]
+        },
+        {
+            "spotify_track_id": "5LZVK19ieaV8Mk9FsqTL3F",
+            "song_title": "Ridere",
+            "session_type": "other",
+            "id": 6966822851,
+            "song_author": [
+                "Pinguini Tattici Nucleari"
+            ]
+        },
+        {
+            "spotify_track_id": "45aBsnKRWUzhwbcqOJLwfe",
+            "song_title": "This Is Me",
+            "session_type": "personal",
+            "id": 6414765082,
+            "song_author": [
+                "Keala Settle",
+                "The Greatest Showman Ensemble"
+            ]
+        },
+        {
+            "spotify_track_id": "6DJoRictDFtFGhgi3Mk7W1",
+            "song_title": "Notredame - i clandestini - Karaoke version",
+            "session_type": "other",
+            "id": 9911698411,
+            "song_author": [
+                "Italian Hitmakers"
+            ]
+        },
+        {
+            "spotify_track_id": "4Re9ss7a60eXUDiSyUMQIn",
+            "song_title": "Orobroy",
+            "session_type": "other",
+            "id": 1871540674,
+            "song_author": [
+                "Dorantes"
+            ]
+        },
+        {
+            "spotify_track_id": "3spdoTYpuCpmq19tuD0bOe",
+            "song_title": "My Way",
+            "session_type": "personal",
+            "id": 2147485238,
+            "song_author": [
+                "Frank Sinatra"
+            ]
+        },
+        {
+            "spotify_track_id": "3ZffCQKLFLUvYM59XKLbVm",
+            "song_title": "Wake Me up When September Ends",
+            "session_type": "other",
+            "id": 6958580937,
+            "song_author": [
+                "Green Day"
+            ]
+        },
+        {
+            "spotify_track_id": "0bmb8jg6ljmt8qBmIsMNvL",
+            "song_title": "Dumbledore's Farewell",
+            "session_type": "other",
+            "id": 9061672934,
+            "song_author": [
+                "Nicholas Hooper"
+            ]
+        },
+        {
+            "spotify_track_id": "0MzRAGZ08ejMYriMw29Roz",
+            "song_title": "Nonno Hollywood",
+            "session_type": "personal",
+            "id": 6900677710,
+            "song_author": [
+                "Enrico Nigiotti"
+            ]
+        },
+        {
+            "spotify_track_id": "43xFiEIXdNCbvLrHnDlKSc",
+            "song_title": "Alla Mia Et\u00e0",
+            "session_type": "other",
+            "id": 6363590111,
+            "song_author": [
+                "Tiziano Ferro"
+            ]
+        },
+        {
+            "spotify_track_id": "5LZVK19ieaV8Mk9FsqTL3F",
+            "song_title": "Ridere",
+            "session_type": "personal",
+            "id": 4809927157,
+            "song_author": [
+                "Pinguini Tattici Nucleari"
+            ]
+        },
+        {
+            "spotify_track_id": "4N0fzRX3T7QkOecp3pkWpp",
+            "song_title": "With Or Without You",
+            "session_type": "other",
+            "id": 4676123976,
+            "song_author": [
+                "U2"
+            ]
+        },
+        {
+            "spotify_track_id": "32Bsla4JMIU9tAeCui4RKp",
+            "song_title": "Ulisse",
+            "session_type": "personal",
+            "id": 8388175546,
+            "song_author": [
+                "lowlow"
+            ]
+        },
+        {
+            "spotify_track_id": "1BncfTJAWxrsxyT9culBrj",
+            "song_title": "Experience",
+            "session_type": "other",
+            "id": 6470579901,
+            "song_author": [
+                "Ludovico Einaudi",
+                "Daniel Hope",
+                "I Virtuosi Italiani"
+            ]
+        },
+        {
+            "spotify_track_id": "4lCv7b86sLynZbXhfScfm2",
+            "song_title": "Firework",
+            "session_type": "other",
+            "id": 8902841762,
+            "song_author": [
+                "Katy Perry"
+            ]
+        },
+        {
+            "spotify_track_id": "6oseOMyZR1Yb7mBMzCney7",
+            "song_title": "Pioggia",
+            "session_type": "personal",
+            "id": 6876216910,
+            "song_author": [
+                "GionnyScandal"
+            ]
+        },
+        {
+            "spotify_track_id": "4OnmVQMW9Eb9dpXjRLbjm0",
+            "song_title": "Vita paranoia",
+            "session_type": "other",
+            "id": 3664254354,
+            "song_author": [
+                "Gazzelle"
+            ]
+        },
+        {
+            "spotify_track_id": "78lgmZwycJ3nzsdgmPPGNx",
+            "song_title": "Immigrant Song - Remaster",
+            "session_type": "other",
+            "id": 2896895581,
+            "song_author": [
+                "Led Zeppelin"
+            ]
+        },
+        {
+            "spotify_track_id": "3590AAEoqH50z4UmhMIY85",
+            "song_title": "Torna a casa",
+            "session_type": "other",
+            "id": 2572654123,
+            "song_author": [
+                "M\u00e5neskin"
+            ]
+        },
+        {
+            "spotify_track_id": "5fYwf17qytSuyFEnBpsq5W",
+            "song_title": "Baba Yetu",
+            "session_type": "other",
+            "id": 4720002516,
+            "song_author": [
+                "Christopher Tin",
+                "Soweto Gospel Choir"
+            ]
+        },
+        {
+            "spotify_track_id": "0ZPNJcgemZIKRjPpdiIHEN",
+            "song_title": "Dance Monkey - Street Sax Performance",
+            "session_type": "other",
+            "id": 6232623821,
+            "song_author": [
+                "Daniele Vitale Sax"
+            ]
+        },
+        {
+            "spotify_track_id": "0h9fnCSnbUgOEgibnQByFv",
+            "song_title": "Everyday Life",
+            "session_type": "other",
+            "id": 2041895602,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "1BnCHMb3N2yx6eE409rlxP",
+            "song_title": "In un'altra vita",
+            "session_type": "personal",
+            "id": 8750055952,
+            "song_author": [
+                "Ludovico Einaudi"
+            ]
+        },
+        {
+            "spotify_track_id": "48nl5zt51TsK1wX86MjMWL",
+            "song_title": "Road to Camelot",
+            "session_type": "other",
+            "id": 8542534813,
+            "song_author": [
+                "Enaid"
+            ]
+        },
+        {
+            "spotify_track_id": "19Rdet8mE1HvEoO4aMrQs3",
+            "song_title": "Il terzo fuochista",
+            "session_type": "other",
+            "id": 5932157098,
+            "song_author": [
+                "Tosca"
+            ]
+        },
+        {
+            "spotify_track_id": "3Oc9ywNtQuuutK3ovrYIfe",
+            "song_title": "Bam Bam Twist (feat. Gow Tribe, Frenetik&Orang3)",
+            "session_type": "personal",
+            "id": 5793136223,
+            "song_author": [
+                "Achille Lauro",
+                "Gow Tribe",
+                "Frenetik&Orang3"
+            ]
+        },
+        {
+            "spotify_track_id": "6DHYVmGNG9id6e5lLo6JxD",
+            "song_title": "A Selfish Selfie",
+            "session_type": "personal",
+            "id": 3794489891,
+            "song_author": [
+                "Cranio Randagio"
+            ]
+        },
+        {
+            "spotify_track_id": "0h9fnCSnbUgOEgibnQByFv",
+            "song_title": "Everyday Life",
+            "session_type": "personal",
+            "id": 5001182584,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "714w4BDTruXD7y1py7p0It",
+            "song_title": "Buonanotte Italia",
+            "session_type": "personal",
+            "id": 4961731885,
+            "song_author": [
+                "J-AX"
+            ]
+        },
+        {
+            "spotify_track_id": "6wI0IS6GI4UxQlIEAvCs12",
+            "song_title": "Ring Christmas Bells",
+            "session_type": "other",
+            "id": 2842825195,
+            "song_author": [
+                "Ray Conniff",
+                "The Ray Conniff Singers"
+            ]
+        },
+        {
+            "spotify_track_id": "1EpjMVaoloW4sLIdfVD6P8",
+            "song_title": "Wrong",
+            "session_type": "personal",
+            "id": 7319037459,
+            "song_author": [
+                "Depeche Mode"
+            ]
+        },
+        {
+            "spotify_track_id": "64rL48E6xWMIXdpcFDEiB8",
+            "song_title": "River Flows In You",
+            "session_type": "personal",
+            "id": 9070192028,
+            "song_author": [
+                "Yiruma"
+            ]
+        },
+        {
+            "spotify_track_id": "4MbTy9bsXMt25rNW9NzxJl",
+            "song_title": "Dragon ball",
+            "session_type": "personal",
+            "id": 6849401195,
+            "song_author": [
+                "Giorgio Vanni"
+            ]
+        },
+        {
+            "spotify_track_id": "4bPkBHKLKd9WHizsvM2zV3",
+            "song_title": "Warning Sign",
+            "session_type": "personal",
+            "id": 3383479341,
+            "song_author": [
+                "Coldplay"
+            ]
+        },
+        {
+            "spotify_track_id": "2pIW5ThhJ7UgWAG2qy9VDt",
+            "song_title": "The Last Revelation Theme",
+            "session_type": "personal",
+            "id": 4880798979,
+            "song_author": [
+                "Peter Connelly"
+            ]
+        },
+        {
+            "spotify_track_id": "11rhg90RuRczpb2LVxQQrh",
+            "song_title": "Quella che non sei",
+            "session_type": "other",
+            "id": 1661254883,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "21lwDJtzbGDJ92lCQs6AQX",
+            "song_title": "I Cento Passi",
+            "session_type": "personal",
+            "id": 2703111706,
+            "song_author": [
+                "Modena City Ramblers"
+            ]
+        },
+        {
+            "spotify_track_id": "60a0Rd6pjrkxjPbaKzXjfq",
+            "song_title": "In the End",
+            "session_type": "other",
+            "id": 4870238826,
+            "song_author": [
+                "Linkin Park"
+            ]
+        },
+        {
+            "spotify_track_id": "5SqUFv3nQsNbxohfSWb3iZ",
+            "song_title": "\u00c8 festa",
+            "session_type": "personal",
+            "id": 9376948425,
+            "song_author": [
+                "Premiata Forneria Marconi"
+            ]
+        },
+        {
+            "spotify_track_id": "4jZvk1NlvNKh6CinRexqzU",
+            "song_title": "Duel of the Fates",
+            "session_type": "other",
+            "id": 9027279402,
+            "song_author": [
+                "John Williams",
+                "London Symphony Orchestra"
+            ]
+        },
+        {
+            "spotify_track_id": "76w5oLSdgYvA0Bt4dTUe0Z",
+            "song_title": "Chega",
+            "session_type": "other",
+            "id": 4098622059,
+            "song_author": [
+                "Gaia"
+            ]
+        },
+        {
+            "spotify_track_id": "2pIW5ThhJ7UgWAG2qy9VDt",
+            "song_title": "The Last Revelation Theme",
+            "session_type": "other",
+            "id": 4955118298,
+            "song_author": [
+                "Peter Connelly"
+            ]
+        },
+        {
+            "spotify_track_id": "1BnCHMb3N2yx6eE409rlxP",
+            "song_title": "In un'altra vita",
+            "session_type": "other",
+            "id": 8080120340,
+            "song_author": [
+                "Ludovico Einaudi"
+            ]
+        },
+        {
+            "spotify_track_id": "44wHGbEAAalNeTIrI2viiG",
+            "song_title": "Fare a meno di te",
+            "session_type": "other",
+            "id": 2976565508,
+            "song_author": [
+                "Due Di Picche"
+            ]
+        },
+        {
+            "spotify_track_id": "1AXUEuwfcuvHq1I1fSiSjO",
+            "song_title": "Sei come me (feat. Laura Bono)",
+            "session_type": "personal",
+            "id": 4888039591,
+            "song_author": [
+                "Grido",
+                "Laura Bono"
+            ]
+        },
+        {
+            "spotify_track_id": "3B3FUgKPpSTpeHN5ubVQ9W",
+            "song_title": "Vaffanculo",
+            "session_type": "personal",
+            "id": 4368723288,
+            "song_author": [
+                "Marco Masini"
+            ]
+        },
+        {
+            "spotify_track_id": "7MXlTgQeo3IVlMpLnZuhxc",
+            "song_title": "It's Time",
+            "session_type": "personal",
+            "id": 1143257457,
+            "song_author": [
+                "Imagine Dragons"
+            ]
+        },
+        {
+            "spotify_track_id": "4UsYN68FV4laJT0ppCswS3",
+            "song_title": "Un giudice",
+            "session_type": "personal",
+            "id": 8777955510,
+            "song_author": [
+                "Fabrizio De Andr\u00e9"
+            ]
+        },
+        {
+            "spotify_track_id": "6nnl1wP7g9ifTDNCVz5aCA",
+            "song_title": "Party 7",
+            "session_type": "personal",
+            "id": 6520735239,
+            "song_author": [
+                "Big Boss Man"
+            ]
+        },
+        {
+            "spotify_track_id": "0ZPNJcgemZIKRjPpdiIHEN",
+            "song_title": "Dance Monkey - Street Sax Performance",
+            "session_type": "other",
+            "id": 8061873521,
+            "song_author": [
+                "Daniele Vitale Sax"
+            ]
+        },
+        {
+            "spotify_track_id": "7nd1mwoAAFtJjmjfdyOUwg",
+            "song_title": "Estate",
+            "session_type": "personal",
+            "id": 2357005717,
+            "song_author": [
+                "Negramaro"
+            ]
+        },
+        {
+            "spotify_track_id": "7IbYC9Aix6P49vjzXhOSlQ",
+            "song_title": "Il sale della terra - Live",
+            "session_type": "personal",
+            "id": 8328972074,
+            "song_author": [
+                "Ligabue"
+            ]
+        },
+        {
+            "spotify_track_id": "4nr4gSTFGmTTSbumSY3kfH",
+            "song_title": "The 2nd Law: Isolated System",
+            "session_type": "personal",
+            "id": 1482964838,
+            "song_author": [
+                "Muse"
+            ]
+        }
+    ]
+}

@@ -158,7 +158,7 @@ cython_debug/
 data/raw/*
 data/preprocessed/*
 data/pruned/*
-data/splits/*
+#data/splits/*
 .vscode/*
 exps/*
 wandb/*

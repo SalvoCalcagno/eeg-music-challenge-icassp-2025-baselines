@@ -20,15 +20,15 @@ We chose 3 well-known architectures as baselines for both tasks:
 - EEGNet [1]
 - SyncNet [2]
 - EEGChannelNet [3] 
-- 
+
 No significant changes were applied to the original architectures.
 
 ## Training
 For the subject identification task, we created a small validation set (val_trial) by extracting 2 trials per subject from the training data. For the emotion recognition task, before extracting the held-out-trial validation set, we selected 2 subjects to serve as a separate held-out-subject validation set (val_subject).
 
-Models were trained using the Adam optimizer for 500 epochs. During training, the model was provided with a random window of 1280 timepoints. For validation, we first segmented each sample into smaller windows of 1280 timepoints, excluding the final segment. The model was then fed all the windows, and a voting scheme was applied to determine the final prediction.
+Models were trained using the Adam optimizer for 500 epochs. During training, the model was provided with a random window of 1280 timepoints. For validation, we first segmented each sample into smaller windows of 1280 timepoints, excluding the final segment. The model was then fed all the windows, and a voting scheme (average for subject identification and majority for emotion recognition) was applied to determine the final prediction.
 
-The final model and hyperparameters (learning rate, batch size, voting scheme) were selected based on the highest  balanced accuracy on val_trial for the subject identification task and the average balanced accuracy across val_trial and val_subject, for the emotion recognition task. A grid search was conducted to optimize these parameters.
+The final model and hyperparameters (learning rate, batch size) were selected based on the highest  balanced accuracy on val_trial for the subject identification task and the average balanced accuracy across val_trial and val_subject, for the emotion recognition task. A grid search was conducted to optimize these parameters.
 
 ## Inference
 For inference, same as for validation, each sample was first segmented into smaller windows of 1280 timepoints, excluding the final segment. 
@@ -37,18 +37,18 @@ The same voting scheme applied in validation was used to generate the final pred
 # Results
 Our strategy yields the following results that serve as baseline
 
-| Model           | Subject Identification | Emotion Recognition |
-|-----------------|------------------------|---------------------|
-| EEGNet          | 65.91              | -                 |
-| SyncNet         | 18.53              | -                 |
-| EEGChannelNet   | 88.09              | -                 |
+| Model             | Subject Identification | Emotion Recognition |
+|-------------------|------------------------|---------------------|
+| EEGNet [1]        | 65.91                  | 30.10               |
+| SyncNet [2]       | 18.53                  | 25.94               |
+| EEGChannelNet [3] | 88.09                  | 26.00               |
 
 
 # How to run
 
 ### **Requirements**
 
-- Download dataset
+- Download dataset from the <a href='https://kaggle.com/datasets/e25d8f6d371bfbe7f35f67458a7759de80d809f970f33b05ff22e7abb70bd65a'>EREMUS Kaggle page</a> 
 - Place your dataset where you prefer and change the key `dataset_path` on `config.json` file accordingly 
 - Create a conda environment through `conda env create -n emer --file environme
 nt.yml`
