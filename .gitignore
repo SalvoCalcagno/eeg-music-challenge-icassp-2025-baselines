@@ -156,9 +156,11 @@ cython_debug/
 
 # Repo-specific
 data/raw/*
+data/old_raw/*
 data/preprocessed/*
 data/pruned/*
 #data/splits/*
+private/*
 .vscode/*
 exps/*
 wandb/*
